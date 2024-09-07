@@ -1,8 +1,8 @@
+import { appendFileSync, existsSync, unlinkSync, writeFileSync } from "node:fs";
 import axios, { AxiosError } from "axios";
 import { parseGenericResponse, parseGeoNodeResponse, parseMyProxy, parseWithRegexResponse } from "./helper/parse";
 
 import type { ProxyScrape } from "./types";
-import { appendFileSync } from "node:fs";
 
 const axiosInstance = axios.create({
     headers: {
@@ -116,7 +116,7 @@ const getProxies = async (): Promise<ProxyScrape[]> => {
             allProxies.push(...proxies);
         } catch (error) {
             if (error instanceof AxiosError) {
-                console.error(`Error scraping from ${url}:`, error.message);
+                console.error(`[-] Error scraping from ${url}:`, error.message);
             }
         }
     }));
@@ -125,19 +125,35 @@ const getProxies = async (): Promise<ProxyScrape[]> => {
 };
 
 
-const writeProxiesToFile = (proxies: ProxyScrape[]) => {
-    const writeToFile = (filename: string, content: string) => appendFileSync(filename, content);
+const writeToFile = (filename: string, content: string, append: boolean = false) => {
+    if (!append && existsSync(filename)) {
+        unlinkSync(filename);
+    }
 
+    if (append) {
+        appendFileSync(filename, content);
+    } else {
+        writeFileSync(filename, content);
+    }
+}
+
+const writeProxiesToFile = (proxies: ProxyScrape[]) => {
     writeToFile('proxies.json', JSON.stringify(proxies));
     writeToFile('http.json', JSON.stringify(proxies.filter(proxy => proxy.type === 'http' || proxy.type === 'https')));
     writeToFile('socks.json', JSON.stringify(proxies.filter(proxy => proxy.type === 'socks5' || proxy.type === 'socks4')));
 
+    // reset
     proxies.forEach(proxy => {
-        writeToFile('proxies.txt', `${proxy.ip}:${proxy.port}\n`);
-        writeToFile(`${proxy.type}.txt`, `${proxy.ip}:${proxy.port}\n`);
+        writeToFile('proxies.txt', '',);
+        writeToFile(`${proxy.type}.txt`, '',);
     });
-};
 
+    proxies.forEach(proxy => {
+        writeToFile('proxies.txt', `${proxy.ip}:${proxy.port}\n`, true);
+        writeToFile(`${proxy.type}.txt`, `${proxy.ip}:${proxy.port}\n`, true);
+    });
+
+};
 
 const main = async () => {
     const proxies = await getProxies();
