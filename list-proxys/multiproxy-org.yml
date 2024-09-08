@@ -1,0 +1,13 @@
+info:
+  name: my-proxy-org
+  source: https://multiproxy.org
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: unknown
+
+proxies:
+  - https://multiproxy.org/txt_all/proxy.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

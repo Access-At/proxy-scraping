@@ -1,79 +1,33 @@
+import type { Extractors, ProxyList, ProxyScrape } from "./types";
+import axios, { AxiosError, type AxiosInstance } from "axios";
 import { appendFileSync, existsSync, unlinkSync, writeFileSync } from "node:fs";
-import axios, { AxiosError } from "axios";
-import { parseGenericResponse, parseGeoNodeResponse, parseMyProxy, parseWithRegexResponse } from "./helper/parse";
 
-import type { ProxyScrape } from "./types";
+import { loadYamlFileSync } from 'load-yaml-file';
+import path from 'path';
+import { readdirSync } from 'node:fs';
+import chalk from 'chalk';
 
-const axiosInstance = axios.create({
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
-        'Pragma': 'no-cache',
-    }
+const proxyDirectory = './list-proxys';
 
-});
+const createAxiosInstance = (): AxiosInstance => {
+    return axios.create({
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Pragma': 'no-cache',
+        }
+    });
+};
 
-const proxyUrls: string[] = [
-    // http
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt",
-    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
-    "https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt",
-    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
-    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
-    "https://www.proxy-list.download/api/v1/get?type=http",
-    "https://www.proxy-list.download/api/v1/get?type=https",
-    "https://api.openproxylist.xyz/http.txt",
-    "https://spys.me/proxy.txt",
-    "https://proxyspace.pro/http.txt",
-
-    // socks4
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks4.txt",
-    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
-    "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS4.txt",
-    "https://www.proxy-list.download/api/v1/get?type=socks4",
-    "https://api.openproxylist.xyz/socks4.txt",
-    "https://proxyspace.pro/socks4.txt",
-
-    // socks5
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks5.txt",
-    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt",
-    "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
-    "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS4.txt",
-    "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
-    "https://www.proxy-list.download/api/v1/get?type=socks5",
-    "https://api.openproxylist.xyz/socks5.txt",
-    "https://proxyspace.pro/http.txt",
-    "https://spys.me/socks.txt",
-
-    // unknown
-    "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies.txt",
-    "https://proxylist.geonode.com/api/proxy-list?limit=500&sort_by=speed&sort_type=asc",
-    "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
-    "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt",
-    "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt",
-    "https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt",
-    "https://api.proxyscrape.com/v2/?request=displayproxies",
-    "https://multiproxy.org/txt_all/proxy.txt",
-    "http://rootjazz.com/proxies/proxies.txt",
-    "http://alexa.lr2b.com/proxylist.txt",
-
-    ...Array.from({ length: 10 }, (_, i) => `https://www.my-proxy.com/free-proxy-list${i ? `-${i + 1}` : ''}.html`)
-];
-
+const axiosInstance = createAxiosInstance();
 
 const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
     const data = new URLSearchParams();
@@ -89,41 +43,45 @@ const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
         }));
 };
 
+const scrapeFromUrl = async (urls: string[], extractors: Extractors): Promise<string[]> => {
+    const allProxies: string[] = [];
 
-const scrapeFromUrl = async (url: string): Promise<ProxyScrape[]> => {
-    const response = await axiosInstance.get(url);
-    let data = [];
-
-    if (url.includes('proxylist.geonode.com')) {
-        data = parseGeoNodeResponse(response.data);
-    } else if (url.includes('spys.me')) {
-        data = parseWithRegexResponse(response.data);
-    } else if (url.includes('my-proxy.com')) {
-        data = parseMyProxy(response.data);
-    } else {
-        data = parseGenericResponse(response.data);
-    }
-
-    return await checkProxyLive(data);
-};
-
-const getProxies = async (): Promise<ProxyScrape[]> => {
-    const allProxies: ProxyScrape[] = [];
-
-    await Promise.all(proxyUrls.map(async (url) => {
+    await Promise.all(urls.map(async (url) => {
         try {
-            const proxies = await scrapeFromUrl(url);
-            allProxies.push(...proxies);
+            const response = await axiosInstance.get(url);
+            if(extractors.type === 'split') {
+                allProxies.push(...response.data.split('\n').filter(Boolean));
+            } else if (extractors.type === 'regex' && extractors.regex) {
+                const matches = response.data.match(new RegExp(extractors.regex, 'g'));
+                if (matches) {
+                    allProxies.push(...matches);
+                }
+            }
         } catch (error) {
             if (error instanceof AxiosError) {
-                console.error(`[-] Error scraping from ${url}:`, error.message);
+                console.log(chalk.red(`[-] Error scraping from ${url}: ${error.message}`))
             }
         }
     }));
-
     return allProxies;
 };
 
+const processYamlFile = async (file: string): Promise<ProxyScrape[]> => {
+    const filePath = path.join(proxyDirectory, file);
+    const yml = loadYamlFileSync(filePath) as ProxyList;
+    const { info, extractors, proxies } = yml;
+
+    console.log(
+        chalk.cyan(`[${info.name}]`) +
+        chalk.yellow(`[${info.name}]`) +
+        chalk.magenta(`[${info.source_type}]`) +
+        chalk.green(`[${info.proxy_type}]`) + ' ' +
+        chalk.blue(info.source)
+    );
+
+    const scrapedProxies = await scrapeFromUrl(proxies, extractors);
+    return checkProxyLive(scrapedProxies);
+};
 
 const writeToFile = (filename: string, content: string, append: boolean = false) => {
     if (!append && existsSync(filename)) {
@@ -156,10 +114,21 @@ const writeProxiesToFile = (proxies: ProxyScrape[]) => {
 };
 
 const main = async () => {
-    const proxies = await getProxies();
-    const uniqueProxies = Array.from(new Set(proxies.map(proxy => JSON.stringify(proxy)))).map(str => JSON.parse(str) as ProxyScrape);
+    const ymlFiles = readdirSync(proxyDirectory).filter(file => path.extname(file).toLowerCase() === '.yml');
+    const allProxies: ProxyScrape[] = [];
+
+    console.log(chalk.cyan('[!] Scraping started...'));
+
+    await Promise.all(ymlFiles.map(async (file) => {
+        const proxies = await processYamlFile(file);
+        allProxies.push(...proxies);
+    }));
+
+    console.log(chalk.green('[+] Scraping completed.'));
+    console.log(chalk.cyan('[!] Total live proxies: ') + chalk.yellow(allProxies.length));
+
+    const uniqueProxies = Array.from(new Set(allProxies.map(proxy => JSON.stringify(proxy)))).map(str => JSON.parse(str) as ProxyScrape);
     writeProxiesToFile(uniqueProxies);
 };
-
 
 main();

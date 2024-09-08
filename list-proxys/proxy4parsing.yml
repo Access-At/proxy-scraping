@@ -1,0 +1,13 @@
+info:
+  name: proxy4parsing
+  source: https://github.com/proxy4parsing/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http
+
+proxies:
+  - https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

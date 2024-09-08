@@ -1,0 +1,13 @@
+info:
+  name: alexa-lr2b-com
+  source: http://alexa.lr2b.com
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: unknown
+
+proxies:
+  - http://alexa.lr2b.com/proxylist.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

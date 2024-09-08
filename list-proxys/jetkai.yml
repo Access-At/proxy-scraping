@@ -1,0 +1,16 @@
+info:
+  name: jetkai
+  source: https://github.com/jetkai/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,https,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt
+  - https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt
+  - https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt
+  - https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

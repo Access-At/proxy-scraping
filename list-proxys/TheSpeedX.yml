@@ -1,0 +1,15 @@
+info:
+  name: TheSpeedX
+  source: https://github.com/TheSpeedX/PROXY-List
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+  - https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
+  - https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

@@ -1,0 +1,15 @@
+info:
+  name: roosterkid
+  source: https://github.com/roosterkid/openproxylist
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: https,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt
+  - https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt
+  - https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

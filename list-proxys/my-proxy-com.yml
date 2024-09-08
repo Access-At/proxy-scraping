@@ -1,0 +1,27 @@
+info:
+  name: my-proxy-com
+  source: https://www.my-proxy.com
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: https,http,socks4,socks5
+
+proxies:
+  - https://www.my-proxy.com/free-proxy-list.html
+  - https://www.my-proxy.com/free-proxy-list-2.html
+  - https://www.my-proxy.com/free-proxy-list-3.html
+  - https://www.my-proxy.com/free-proxy-list-4.html
+  - https://www.my-proxy.com/free-proxy-list-5.html
+  - https://www.my-proxy.com/free-proxy-list-6.html
+  - https://www.my-proxy.com/free-proxy-list-7.html
+  - https://www.my-proxy.com/free-proxy-list-8.html
+  - https://www.my-proxy.com/free-proxy-list-9.html
+  - https://www.my-proxy.com/free-proxy-list-10.html
+  - https://www.my-proxy.com/free-socks-5-proxy.html
+  - https://www.my-proxy.com/free-elite-proxy.html
+  - https://www.my-proxy.com/free-anonymous-proxy.html
+  - https://www.my-proxy.com/free-transparent-proxy.html
+  - https://www.my-proxy.com/free-socks-4-proxy.html
+
+extractors:
+    type: regex
+    regex: \b\d{1,3}(?:\.\d{1,3}){3}:\d+\b

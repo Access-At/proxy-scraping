@@ -1,0 +1,15 @@
+info:
+  name: openproxylist
+  source: https://openproxylist.xyz
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://api.openproxylist.xyz/http.txt
+  - https://api.openproxylist.xyz/socks4.txt
+  - https://api.openproxylist.xyz/socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

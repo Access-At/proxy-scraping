@@ -1,0 +1,18 @@
+info:
+  name: monosans
+  source: https://github.com/monosans/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5,http_anonymous,socks4_anonymous,socks5_anonymous
+
+proxies:
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks4.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

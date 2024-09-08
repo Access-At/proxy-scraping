@@ -1,0 +1,16 @@
+info:
+  name: proxyspace
+  source: https://proxyspace.pro
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: https,http,socks4,socks5
+
+proxies:
+  - https://proxyspace.pro/http.txt
+  - https://proxyspace.pro/https.txt
+  - https://proxyspace.pro/socks4.txt
+  - https://proxyspace.pro/socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

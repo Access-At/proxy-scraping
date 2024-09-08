@@ -1,0 +1,13 @@
+info:
+  name: rootjazz
+  source: http://rootjazz.com
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: unknown
+
+proxies:
+  - http://rootjazz.com/proxies/proxies.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

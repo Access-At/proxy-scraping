@@ -1,0 +1,15 @@
+info:
+  name: sunny9577
+  source: https://github.com/sunny9577/proxy-scraper
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: https,http,socks4,socks5
+
+proxies:
+    - https://sunny9577.github.io/proxy-scraper/generated/http_proxies.txt
+    - https://sunny9577.github.io/proxy-scraper/generated/socks4_proxies.txt
+    - https://sunny9577.github.io/proxy-scraper/generated/socks5_proxies.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

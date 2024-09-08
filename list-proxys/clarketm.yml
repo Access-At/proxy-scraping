@@ -1,0 +1,13 @@
+info:
+  name: clarketm
+  source: https://github.com/clarketm/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: unknown
+
+proxies:
+  - https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

@@ -1,0 +1,16 @@
+info:
+  name: ShiftyTR
+  source: https://github.com/ShiftyTR/Proxy-List
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: https,http,socks4,socks5
+
+proxies:
+    - https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
+    - https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
+    - https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt
+    - https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

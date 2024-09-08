@@ -1,0 +1,16 @@
+info:
+  name: ErcinDedeoglu
+  source: https://github.com/ErcinDedeoglu/proxies
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,https,socks5,socks4
+
+proxies:
+    - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
+    - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt
+    - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt
+    - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

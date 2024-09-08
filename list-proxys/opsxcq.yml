@@ -1,0 +1,13 @@
+info:
+  name: opsxcq
+  source: https://github.com/opsxcq/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: unknown
+
+proxies:
+    - https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

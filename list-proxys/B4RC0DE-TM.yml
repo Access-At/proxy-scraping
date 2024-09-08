@@ -1,0 +1,15 @@
+info:
+  name: B4RC0DE-TM
+  source: https://github.com/B4RC0DE-TM/proxy-list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt
+  - https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS4.txt
+  - https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

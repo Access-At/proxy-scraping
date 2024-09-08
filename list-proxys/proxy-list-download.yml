@@ -1,0 +1,16 @@
+info:
+  name: proxy-list-download
+  source: https://www.proxy-list.download
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: https,http,socks4,socks5
+
+proxies:
+  - https://www.proxy-list.download/api/v1/get?type=http
+  - https://www.proxy-list.download/api/v1/get?type=https
+  - https://www.proxy-list.download/api/v1/get?type=socks4
+  - https://www.proxy-list.download/api/v1/get?type=socks5
+
+extractors:
+    type: split
+    delimiter: "\n"

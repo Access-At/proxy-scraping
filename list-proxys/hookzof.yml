@@ -1,0 +1,13 @@
+info:
+  name: hookzof
+  source: https://github.com/hookzof/socks5_list
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: socks5
+
+proxies:
+    - https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+
+extractors:
+    type: split
+    delimiter: "\n"
