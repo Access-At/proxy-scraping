@@ -1,0 +1,28 @@
+info:
+  name: ProxyList-GeoNode
+  source: https://proxylist.geonode.com
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=2&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=3&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=4&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=5&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=6&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=7&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=8&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=9&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=10&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=11&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=12&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=13&sort_by=lastChecked&sort_type=desc
+  - https://proxylist.geonode.com/api/proxy-list?limit=500&page=14&sort_by=lastChecked&sort_type=desc
+
+extractors:
+    type: json
+    path:
+      ip: data[].ip
+      port: data[].port

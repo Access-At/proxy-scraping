@@ -6,6 +6,7 @@ import { loadYamlFileSync } from 'load-yaml-file';
 import path from 'path';
 import { readdirSync } from 'node:fs';
 import chalk from 'chalk';
+import select from '@gizt/selector'
 
 const proxyDirectory = './list-proxys';
 
@@ -50,11 +51,19 @@ const scrapeFromUrl = async (urls: string[], extractors: Extractors): Promise<st
         try {
             const response = await axiosInstance.get(url);
             if(extractors.type === 'split') {
-                allProxies.push(...response.data.split('\n').filter(Boolean));
+                allProxies.push(...response.data.split(extractors.delimiter).filter(Boolean));
             } else if (extractors.type === 'regex' && extractors.regex) {
                 const matches = response.data.match(new RegExp(extractors.regex, 'g'));
                 if (matches) {
                     allProxies.push(...matches);
+                }
+            } else if (extractors.type === 'json' && extractors.path) {
+                const matches_ip = select(extractors.path.ip, response.data);
+                const matches_port = select(extractors.path.port, response.data);
+                for (let i = 0; i < matches_ip.length; i++) {
+                    if (matches_ip[i] && matches_port[i]) {
+                        allProxies.push(`${matches_ip[i]}:${matches_port[i]}`);
+                    }
                 }
             }
         } catch (error) {
@@ -125,9 +134,11 @@ const main = async () => {
     }));
 
     console.log(chalk.green('[+] Scraping completed.'));
-    console.log(chalk.cyan('[!] Total live proxies: ') + chalk.yellow(allProxies.length));
 
     const uniqueProxies = Array.from(new Set(allProxies.map(proxy => JSON.stringify(proxy)))).map(str => JSON.parse(str) as ProxyScrape);
+
+    console.log(chalk.cyan('[!] Total live proxies: ') + chalk.yellow(uniqueProxies.length));
+
     writeProxiesToFile(uniqueProxies);
 };
 

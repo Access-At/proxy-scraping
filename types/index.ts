@@ -16,6 +16,10 @@ export interface Extractors {
     type: string
     delimiter?: string
     regex?: string
+    path?: {
+        ip: string
+        port: string
+    }
 }
 
 export interface ProxyList {
