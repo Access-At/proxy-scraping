@@ -1,5 +1,5 @@
 info:
-  name: ProxyList-GeoNode
+  name: proxyList-GeoNode
   source: https://proxylist.geonode.com
   source_type: website
   author: Rizsyad AR
