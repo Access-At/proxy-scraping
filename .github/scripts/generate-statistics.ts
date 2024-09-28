@@ -164,7 +164,7 @@ const main = async () => {
 
     const fullContent = `# Source Type Summary\n\n${sourceTypeTable}\n\n# Author Summary\n\n${authorTable}\n\n# Proxy Type Summary\n\n${proxyTypeTable}\n\n# Proxy Details\n\n${mainTable}`;
 
-    writeFileSync('STATISTICS.md', fullContent);
+    writeFileSync('../../docs/STATISTICS.md', fullContent);
     console.log(chalk.green('[+] STATISTICS.md has been created with the proxy statistics and summaries.'));
 };
 
