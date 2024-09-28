@@ -33,6 +33,10 @@ const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
     const data = new URLSearchParams();
     proxies.forEach(proxy => data.append("ip_addr[]", proxy));
 
+    if (proxies.length === 0) {
+        return [];
+    }
+
     try {
         const response = await axiosInstance.post('https://api.proxyscrape.com/v4/online_check', data);
         return response.data
