@@ -3,7 +3,7 @@ import axios, { AxiosError, type AxiosInstance } from "axios";
 
 import { loadYamlFileSync } from 'load-yaml-file';
 import path from 'path';
-import { readdirSync, writeFileSync } from 'node:fs';
+import { readdirSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import chalk from 'chalk';
 import select from '@gizt/selector'
 
@@ -164,7 +164,12 @@ const main = async () => {
 
     const fullContent = `# Source Type Summary\n\n${sourceTypeTable}\n\n# Author Summary\n\n${authorTable}\n\n# Proxy Type Summary\n\n${proxyTypeTable}\n\n# Proxy Details\n\n${mainTable}`;
 
-    writeFileSync(path.join(__dirname, '../../docs/STATISTICS.md'), fullContent);
+    const outputDir = path.join(__dirname, '../../docs');
+    if (!existsSync(outputDir)) {
+        mkdirSync(outputDir, { recursive: true });
+    }
+
+    writeFileSync(path.join(outputDir, 'STATISTICS.md'), fullContent);
     console.log(chalk.green('[+] STATISTICS.md has been created with the proxy statistics and summaries.'));
 };
 
