@@ -1,4 +1,4 @@
-name: Live Proxy Updater
+name: Generate Statistics
 
 on:
   schedule:
