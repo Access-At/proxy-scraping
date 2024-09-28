@@ -2,6 +2,7 @@ export interface ProxyScrape {
     ip: string;
     port: number;
     type: string;
+    working?: boolean;
 }
 
 interface Info {

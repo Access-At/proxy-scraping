@@ -1,10 +1,9 @@
-import type { Extractors, ProxyList, ProxyScrape } from "./types";
+import type { Extractors, ProxyList, ProxyScrape } from "../../types";
 import axios, { AxiosError, type AxiosInstance } from "axios";
-import { appendFileSync, existsSync, unlinkSync, writeFileSync } from "node:fs";
 
 import { loadYamlFileSync } from 'load-yaml-file';
 import path from 'path';
-import { readdirSync } from 'node:fs';
+import { readdirSync, writeFileSync } from 'node:fs';
 import chalk from 'chalk';
 import select from '@gizt/selector'
 
@@ -34,18 +33,14 @@ const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
     const data = new URLSearchParams();
     proxies.forEach(proxy => data.append("ip_addr[]", proxy));
 
-    if (proxies.length === 0) {
-        return [];
-    }
-
     try {
         const response = await axiosInstance.post('https://api.proxyscrape.com/v4/online_check', data);
         return response.data
-            .filter((proxy: any) => proxy.working)
             .map((proxy: any) => ({
                 ip: proxy.ip,
                 port: proxy.port,
                 type: proxy.type,
+                working: proxy.working,
             }));
     } catch (error) {
         if (error instanceof AxiosError) {
@@ -54,6 +49,7 @@ const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
         return [];
     }
 };
+
 const scrapeFromUrl = async (urls: string[], extractors: Extractors): Promise<string[]> => {
     const allProxies: string[] = [];
 
@@ -86,7 +82,7 @@ const scrapeFromUrl = async (urls: string[], extractors: Extractors): Promise<st
     return allProxies;
 };
 
-const processYamlFile = async (file: string): Promise<ProxyScrape[]> => {
+const processYamlFile = async (file: string): Promise<{ name: string, sourceType: string, author: string, proxyType: string[], totalProxies: number, liveProxies: number, deadProxies: number }> => {
     const filePath = path.join(proxyDirectory, file);
     const yml = loadYamlFileSync(filePath) as ProxyList;
     const { info, extractors, proxies } = yml;
@@ -100,57 +96,76 @@ const processYamlFile = async (file: string): Promise<ProxyScrape[]> => {
     );
 
     const scrapedProxies = await scrapeFromUrl(proxies, extractors);
-    return checkProxyLive(scrapedProxies);
-};
+    const checkedProxies = await checkProxyLive(scrapedProxies);
 
-const writeToFile = (filename: string, content: string, append: boolean = false) => {
-    if (!append && existsSync(filename)) {
-        unlinkSync(filename);
-    }
+    const totalProxies = checkedProxies.length;
+    const liveProxies = checkedProxies.filter(proxy => proxy.working).length;
+    const deadProxies = totalProxies - liveProxies;
 
-    if (append) {
-        appendFileSync(filename, content);
-    } else {
-        writeFileSync(filename, content);
-    }
-}
-
-const writeProxiesToFile = (proxies: ProxyScrape[]) => {
-    writeToFile('proxies.json', JSON.stringify(proxies));
-    writeToFile('http.json', JSON.stringify(proxies.filter(proxy => proxy.type === 'http' || proxy.type === 'https')));
-    writeToFile('socks.json', JSON.stringify(proxies.filter(proxy => proxy.type === 'socks5' || proxy.type === 'socks4')));
-
-    // reset
-    proxies.forEach(proxy => {
-        writeToFile('proxies.txt', '',);
-        writeToFile(`${proxy.type}.txt`, '',);
-    });
-
-    proxies.forEach(proxy => {
-        writeToFile('proxies.txt', `${proxy.ip}:${proxy.port}\n`, true);
-        writeToFile(`${proxy.type}.txt`, `${proxy.ip}:${proxy.port}\n`, true);
-    });
-
+    return {
+        name: info.name,
+        sourceType: info.source_type,
+        author: info.author,
+        proxyType: info.proxy_type.split(',').map(type => type.trim()),
+        totalProxies,
+        liveProxies,
+        deadProxies
+    };
 };
 
 const main = async () => {
     const ymlFiles = readdirSync(proxyDirectory).filter(file => path.extname(file).toLowerCase() === '.yml');
-    const allProxies: ProxyScrape[] = [];
+    const proxyStats: { name: string, sourceType: string, author: string, proxyType: string[], totalProxies: number, liveProxies: number, deadProxies: number }[] = [];
 
     console.log(chalk.cyan('[!] Scraping started...'));
 
     await Promise.all(ymlFiles.map(async (file) => {
-        const proxies = await processYamlFile(file);
-        allProxies.push(...proxies);
+        const stats = await processYamlFile(file);
+        proxyStats.push(stats);
     }));
 
     console.log(chalk.green('[+] Scraping completed.'));
 
-    const uniqueProxies = Array.from(new Set(allProxies.map(proxy => JSON.stringify(proxy)))).map(str => JSON.parse(str) as ProxyScrape);
+    // Create summary tables
+    let sourceTypeTable = '| Source Type | Count |\n|-------------|-------|\n';
+    let authorTable = '| Author | Count |\n|--------|-------|\n';
+    let proxyTypeTable = '| Proxy Type | Count |\n|------------|-------|\n';
 
-    console.log(chalk.cyan('[!] Total live proxies: ') + chalk.yellow(uniqueProxies.length) + chalk.green(' proxies.'));
+    const sourceTypeCounts: { [key: string]: number } = {};
+    const authorCounts: { [key: string]: number } = {};
+    const proxyTypeCounts: { [key: string]: number } = {};
 
-    writeProxiesToFile(uniqueProxies);
+    proxyStats.forEach(stat => {
+        sourceTypeCounts[stat.sourceType] = (sourceTypeCounts[stat.sourceType] || 0) + 1;
+        authorCounts[stat.author] = (authorCounts[stat.author] || 0) + 1;
+        stat.proxyType.forEach(type => {
+            proxyTypeCounts[type] = (proxyTypeCounts[type] || 0) + 1;
+        });
+    });
+
+    for (const [sourceType, count] of Object.entries(sourceTypeCounts)) {
+        sourceTypeTable += `| ${sourceType} | ${count} |\n`;
+    }
+
+    for (const [author, count] of Object.entries(authorCounts)) {
+        authorTable += `| ${author} | ${count} |\n`;
+    }
+
+    for (const [proxyType, count] of Object.entries(proxyTypeCounts)) {
+        proxyTypeTable += `| ${proxyType} | ${count} |\n`;
+    }
+
+    // Create main table
+    let mainTable = '| Name | Total Proxies | Live Proxies | Dead Proxies |\n';
+    mainTable += '|------|---------------|--------------|---------------|\n';
+    proxyStats.forEach(stat => {
+        mainTable += `| ${stat.name} | ${stat.totalProxies} | ${stat.liveProxies} | ${stat.deadProxies} |\n`;
+    });
+
+    const fullContent = `# Source Type Summary\n\n${sourceTypeTable}\n\n# Author Summary\n\n${authorTable}\n\n# Proxy Type Summary\n\n${proxyTypeTable}\n\n# Proxy Details\n\n${mainTable}`;
+
+    writeFileSync('STATISTICS.md', fullContent);
+    console.log(chalk.green('[+] STATISTICS.md has been created with the proxy statistics and summaries.'));
 };
 
 main();

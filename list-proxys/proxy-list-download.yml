@@ -1,5 +1,5 @@
 info:
-  name: proxy-list-download
+  name: proxy-list.download
   source: https://www.proxy-list.download
   source_type: website
   author: Rizsyad AR
