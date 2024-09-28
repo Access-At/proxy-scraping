@@ -7,7 +7,7 @@ import { readdirSync, writeFileSync } from 'node:fs';
 import chalk from 'chalk';
 import select from '@gizt/selector'
 
-const proxyDirectory = './list-proxys';
+const proxyDirectory = '../../list-proxys';
 
 const createAxiosInstance = (): AxiosInstance => {
     return axios.create({
