@@ -3,25 +3,25 @@
 | Source Type | Count |
 |-------------|-------|
 | github | 13 |
-| website | 9 |
+| website | 10 |
 
 
 # Author Summary
 
 | Author | Count |
 |--------|-------|
-| Rizsyad AR | 22 |
+| Rizsyad AR | 23 |
 
 
 # Proxy Type Summary
 
 | Proxy Type | Count |
 |------------|-------|
-| socks5 | 17 |
+| socks5 | 18 |
 | https | 10 |
-| socks4 | 15 |
+| socks4 | 16 |
 | unknown | 4 |
-| http | 16 |
+| http | 17 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -31,25 +31,26 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| hookzof | 73 | 3 | 70 |
-| roosterkid | 276 | 15 | 261 |
-| clarketm | 400 | 5 | 395 |
-| opsxcq | 343 | 0 | 343 |
-| monosans | 459 | 38 | 421 |
-| proxy-list.download | 282 | 3 | 279 |
-| ShiftyTR | 993 | 29 | 964 |
-| spys | 800 | 58 | 742 |
-| mmppx12 | 1001 | 72 | 929 |
-| proxyscrape.com | 970 | 940 | 30 |
-| jetkai | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 10 | 991 |
-| rootjazz.com | 1001 | 30 | 971 |
-| sunny9577 | 1001 | 85 | 916 |
-| multiproxy.org | 1001 | 1 | 1000 |
-| proxyspace.pro | 1001 | 8 | 993 |
-| ErcinDedeoglu | 1001 | 74 | 927 |
-| openproxylist.xyz | 1001 | 26 | 975 |
-| proxy4parsing | 1001 | 9 | 992 |
-| TheSpeedX | 1001 | 93 | 908 |
-| my-proxy.com | 1001 | 272 | 729 |
-| proxylist.geonode.com | 1001 | 10 | 991 |
+| hookzof | 2 | 0 | 2 |
+| roosterkid | 20 | 0 | 20 |
+| clarketm | 7 | 0 | 7 |
+| opsxcq | 0 | 0 | 0 |
+| monosans | 29 | 0 | 29 |
+| mmppx12 | 100 | 0 | 100 |
+| spys | 59 | 0 | 59 |
+| multiproxy.org | 1 | 0 | 1 |
+| ShiftyTR | 26 | 0 | 26 |
+| proxyscrape.com | 904 | 0 | 904 |
+| sunny9577 | 79 | 0 | 79 |
+| rootjazz.com | 29 | 0 | 29 |
+| jetkai | 4 | 0 | 4 |
+| proxy4parsing | 5 | 0 | 5 |
+| proxy-list.download | 4 | 0 | 4 |
+| B4RC0DE-TM | 10 | 0 | 10 |
+| ErcinDedeoglu | 68 | 0 | 68 |
+| openproxylist.xyz | 24 | 0 | 24 |
+| TheSpeedX | 97 | 0 | 97 |
+| rotatingproxies.com | 2 | 0 | 2 |
+| proxylist.geonode.com | 17 | 0 | 17 |
+| my-proxy.com | 270 | 0 | 270 |
+| proxyspace.pro | 58 | 0 | 58 |
