@@ -31,25 +31,25 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| hookzof | 85 | 2 | 83 |
+| hookzof | 74 | 1 | 73 |
+| clarketm | 400 | 3 | 397 |
+| roosterkid | 278 | 23 | 255 |
+| proxy-list.download | 282 | 3 | 279 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 283 | 17 | 266 |
-| monosans | 330 | 14 | 316 |
-| clarketm | 400 | 5 | 395 |
-| proxyscrape.com | 881 | 762 | 119 |
-| spys | 800 | 44 | 756 |
-| jetkai | 1001 | 19 | 982 |
-| ShiftyTR | 993 | 30 | 963 |
-| mmppx12 | 1001 | 92 | 909 |
-| rootjazz.com | 1001 | 33 | 968 |
-| B4RC0DE-TM | 1001 | 12 | 989 |
+| monosans | 415 | 38 | 377 |
+| spys | 800 | 49 | 751 |
+| mmppx12 | 1001 | 108 | 893 |
+| proxyscrape.com | 1001 | 963 | 38 |
+| jetkai | 1001 | 4 | 997 |
+| ShiftyTR | 993 | 29 | 964 |
+| sunny9577 | 1001 | 99 | 902 |
+| rootjazz.com | 1001 | 22 | 979 |
+| ErcinDedeoglu | 1001 | 27 | 974 |
+| B4RC0DE-TM | 1001 | 9 | 992 |
+| proxy4parsing | 1001 | 9 | 992 |
+| proxyspace.pro | 1001 | 103 | 898 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| sunny9577 | 1001 | 78 | 923 |
-| proxylist.geonode.com | 1001 | 21 | 980 |
-| ErcinDedeoglu | 1001 | 71 | 930 |
-| proxy-list.download | 1001 | 2 | 999 |
-| TheSpeedX | 1001 | 115 | 886 |
-| proxy4parsing | 1001 | 5 | 996 |
+| my-proxy.com | 1001 | 250 | 751 |
 | openproxylist.xyz | 1001 | 24 | 977 |
-| proxyspace.pro | 1001 | 95 | 906 |
-| my-proxy.com | 1001 | 216 | 785 |
+| TheSpeedX | 1001 | 118 | 883 |
+| proxylist.geonode.com | 1001 | 6 | 995 |
