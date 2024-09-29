@@ -26,7 +26,7 @@ const processYamlFile = async (file: string): Promise<{ name: string, sourceType
 
     const checkedProxies = await checkProxyLive(scrapedProxies);
 
-    const totalProxies = checkedProxies.length;
+    const totalProxies = scrapedProxies.length;
     const liveProxies = checkedProxies.filter(proxy => proxy.working).length;
     const deadProxies = totalProxies - liveProxies;
 
