@@ -1,0 +1,15 @@
+info:
+  name: rotatingproxies.com
+  source: https://rotatingproxies.com
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://rotatingproxies.com/free/get-proxies.php?proxy_anonymity=all&proxy_protocol=all&proxy_location=WW
+
+extractors:
+    type: json
+    path:
+      ip: "[].ip"
+      port: "[].port"
