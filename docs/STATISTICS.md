@@ -31,25 +31,25 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| hookzof | 93 | 6 | 87 |
-| roosterkid | 295 | 20 | 275 |
+| hookzof | 95 | 3 | 92 |
+| roosterkid | 296 | 21 | 275 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 3 | 397 |
-| monosans | 541 | 22 | 519 |
+| clarketm | 400 | 6 | 394 |
+| monosans | 535 | 40 | 495 |
 | spys | 800 | 69 | 731 |
-| mmppx12 | 1001 | 99 | 902 |
-| ShiftyTR | 993 | 38 | 955 |
-| proxyscrape.com | 1001 | 957 | 44 |
-| B4RC0DE-TM | 1001 | 10 | 991 |
-| proxy-list.download | 1001 | 6 | 995 |
-| ErcinDedeoglu | 1001 | 27 | 974 |
+| mmppx12 | 1001 | 56 | 945 |
+| proxyscrape.com | 1001 | 980 | 21 |
+| sunny9577 | 1001 | 128 | 873 |
+| jetkai | 1001 | 23 | 978 |
+| ErcinDedeoglu | 1001 | 63 | 938 |
+| rootjazz.com | 1001 | 50 | 951 |
+| ShiftyTR | 993 | 27 | 966 |
+| TheSpeedX | 1001 | 126 | 875 |
+| proxyspace.pro | 1001 | 13 | 988 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| rootjazz.com | 1001 | 42 | 959 |
-| openproxylist.xyz | 1001 | 30 | 971 |
-| sunny9577 | 1001 | 147 | 854 |
-| jetkai | 1001 | 16 | 985 |
-| proxy4parsing | 1001 | 8 | 993 |
-| my-proxy.com | 1001 | 254 | 747 |
-| proxyspace.pro | 1001 | 72 | 929 |
-| TheSpeedX | 1001 | 140 | 861 |
-| proxylist.geonode.com | 1001 | 24 | 977 |
+| B4RC0DE-TM | 1001 | 8 | 993 |
+| openproxylist.xyz | 1001 | 31 | 970 |
+| proxy-list.download | 1001 | 4 | 997 |
+| proxy4parsing | 1001 | 10 | 991 |
+| proxylist.geonode.com | 1001 | 21 | 980 |
+| my-proxy.com | 1001 | 265 | 736 |
