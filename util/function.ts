@@ -26,22 +26,37 @@ export const createAxiosInstance = (): AxiosInstance => {
 export const axiosInstance = createAxiosInstance();
 
 export const checkProxyLive = async (proxies: string[]): Promise<ProxyScrape[]> => {
+    if (proxies.length === 0) {
+        return [];
+    }
+
     const data = new URLSearchParams();
     proxies.forEach(proxy => data.append("ip_addr[]", proxy));
-
-    // if (proxies.length === 0) {
-    //     return [];
-    // }
 
     try {
         const response = await axiosInstance.post('https://api.proxyscrape.com/v4/online_check', data);
         return response.data
             .filter((proxy: any) => proxy.working)
-            .map((proxy: any) => ({
-                ip: proxy.ip,
-                port: proxy.port,
-                type: proxy.type,
-            }));
+            .map(({ ip, port, type, working }: any) => ({ ip, port, type, working }));
+    } catch (error) {
+        if (error instanceof AxiosError) {
+            console.log(chalk.red(`[-] Error check proxy: ${error.message}`));
+        }
+        return [];
+    }
+};
+
+export const checkProxy = async (proxies: string[]): Promise<ProxyScrape[]> => {
+    if (proxies.length === 0) {
+        return [];
+    }
+
+    const data = new URLSearchParams();
+    proxies.forEach(proxy => data.append("ip_addr[]", proxy));
+
+    try {
+        const response = await axiosInstance.post('https://api.proxyscrape.com/v4/online_check', data);
+        return response.data.map(({ ip, port, type, working }: any) => ({ ip, port, type, working }));
     } catch (error) {
         if (error instanceof AxiosError) {
             console.log(chalk.red(`[-] Error check proxy: ${error.message}`));

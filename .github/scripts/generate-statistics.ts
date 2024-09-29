@@ -1,4 +1,4 @@
-import { checkProxyLive, scrapeFromUrl } from "../../util/function";
+import { checkProxy, scrapeFromUrl } from "../../util/function";
 import { existsSync, mkdirSync, readdirSync, writeFileSync } from 'node:fs';
 
 import type { ProxyList } from "../../types";
@@ -24,7 +24,7 @@ const processYamlFile = async (file: string): Promise<{ name: string, sourceType
     const scrapedProxies = await scrapeFromUrl(proxies, extractors);
     console.log(chalk.green(`[+] ${scrapedProxies.length} proxies scraped from ${info.source}`));
 
-    const checkedProxies = await checkProxyLive(scrapedProxies);
+    const checkedProxies = await checkProxy(scrapedProxies);
 
     const totalProxies = checkedProxies.length;
     const liveProxies = checkedProxies.filter(proxy => proxy.working).length;
