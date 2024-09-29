@@ -1,0 +1,16 @@
+info:
+  name: Zaeem20
+  source: https://github.com/Zaeem20/FREE_PROXIES_LIST
+  source_type: github
+  author: Rizsyad AR
+  proxy_type: http,https,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/http.txt
+  - https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/https.txt
+  - https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/socks4.txt
+  - https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/socks5.txt
+
+extractors:
+    type: split
+    delimiter: "\n"

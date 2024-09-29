@@ -12,7 +12,7 @@ const proxyDirectory = './list-proxys';
 const processYamlFile = async (file: string): Promise<ProxyScrape[]> => {
     const filePath = path.join(proxyDirectory, file);
     const yml = loadYamlFileSync(filePath) as ProxyList;
-    const { info, extractors, proxies } = yml;
+    const { info, extractors, proxies, requests } = yml;
 
     console.log(
         chalk.cyan(`[${info.name}]`) +
@@ -22,8 +22,8 @@ const processYamlFile = async (file: string): Promise<ProxyScrape[]> => {
         chalk.blue(info.source)
     );
 
-    const scrapedProxies = await scrapeFromUrl(proxies, extractors);
-    console.log(chalk.green(`[+] ${scrapedProxies.length} proxies scraped from ${info.source}`));
+    const scrapedProxies = await scrapeFromUrl(proxies, extractors,  requests);
+    console.log(chalk.cyanBright(`[*] ${scrapedProxies.length} proxies scraped from ${info.source}`));
 
     return checkProxyLive(scrapedProxies);
 };
@@ -68,9 +68,6 @@ const main = async () => {
         const proxies = await processYamlFile(file);
         allProxies.push(...proxies);
     }));
-
-    // const proxies = await processYamlFile('rotatingproxies-com.yml');
-    // allProxies.push(...proxies);
 
     console.log(chalk.green('[+] Scraping completed.'));
 

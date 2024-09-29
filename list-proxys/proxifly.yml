@@ -1,0 +1,15 @@
+info:
+  name: proxifly
+  source: https://github.com/proxifly/free-proxy-list
+  source_type: Github
+  author: Rizsyad AR
+  proxy_type: http,socks4,socks5
+
+proxies:
+  - https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/all/data.json
+
+extractors:
+    type: json
+    path:
+      ip: "[].ip"
+      port: "[].port"

@@ -1,4 +1,4 @@
-import type { Extractors, ProxyScrape } from "../types";
+import type { Extractors, ProxyScrape, Requests } from "../types";
 import axios, { AxiosError } from "axios";
 
 import type { AxiosInstance } from "axios";
@@ -66,12 +66,16 @@ export const checkProxy = async (proxies: string[]): Promise<ProxyScrape[]> => {
 };
 
 
-export const scrapeFromUrl = async (urls: string[], extractors: Extractors): Promise<string[]> => {
+export const scrapeFromUrl = async (urls: string[], extractors: Extractors, requests: Requests): Promise<string[]> => {
     const allProxies: string[] = [];
 
     await Promise.all(urls.map(async (url) => {
         try {
-            const response = await axiosInstance.get(url);
+            const response = await axiosInstance({
+                url,
+                method: requests?.method || 'GET',
+            })
+
             if(extractors.type === 'split') {
                 allProxies.push(...response.data.replace(/\r/g, '').split(extractors.delimiter).filter(Boolean));
             } else if (extractors.type === 'regex' && extractors.regex) {

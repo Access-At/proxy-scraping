@@ -3,12 +3,13 @@ info:
   source: https://proxyscrape.com
   source_type: website
   author: Rizsyad AR
-  proxy_type: http,socks4,socks5
+  proxy_type: http,socks4,socks5,https
 
 proxies:
-  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=http
-  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=socks4
-  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=socks5
+  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=http&timeout=10000
+  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=https&timeout=10000
+  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=socks4&timeout=10000
+  - https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&proxy_format=ipport&format=text&protocol=socks5&timeout=10000
 
 extractors:
     type: split

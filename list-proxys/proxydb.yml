@@ -1,0 +1,18 @@
+info:
+  name: proxydb.net
+  source: https://proxydb.net/
+  source_type: website
+  author: Rizsyad AR
+  proxy_type: http,https,socks4,socks5
+
+proxies:
+  - https://proxydb.net/list
+
+requests:
+  method: POST
+
+extractors:
+    type: json
+    path:
+      ip: proxies[].ip
+      port: proxies[].port

@@ -23,8 +23,16 @@ export interface Extractors {
     }
 }
 
+export interface Requests {
+    method: string
+    headers: {
+        [key: string]: string
+    }
+}
+
 export interface ProxyList {
     info: Info
     extractors: Extractors
     proxies: string[]
+    requests: Requests
 }
