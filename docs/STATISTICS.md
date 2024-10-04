@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 90 | 5 | 85 |
-| roosterkid | 277 | 21 | 256 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 103 | 4 | 99 |
+| roosterkid | 274 | 22 | 252 |
 | opsxcq | 343 | 0 | 343 |
-| proxifly | 306 | 20 | 286 |
-| clarketm | 400 | 5 | 395 |
-| Zaeem20 | 684 | 170 | 514 |
-| mmppx12 | 1001 | 70 | 931 |
-| proxyspace.pro | 1001 | 12 | 989 |
-| proxyscrape.com | 1001 | 739 | 262 |
-| ShiftyTR | 993 | 25 | 968 |
-| jetkai | 1001 | 3 | 998 |
-| monosans | 925 | 28 | 897 |
+| clarketm | 400 | 3 | 397 |
+| proxifly | 467 | 23 | 444 |
+| Zaeem20 | 534 | 184 | 350 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| proxy4parsing | 1001 | 13 | 988 |
-| ErcinDedeoglu | 1001 | 65 | 936 |
-| TheSpeedX | 1001 | 109 | 892 |
-| zloi-user | 1001 | 80 | 921 |
-| proxy-list.download | 1001 | 1 | 1000 |
-| proxylist.geonode.com | 1001 | 30 | 971 |
-| rootjazz.com | 1001 | 25 | 976 |
-| B4RC0DE-TM | 1001 | 7 | 994 |
-| openproxylist.xyz | 1001 | 20 | 981 |
-| sunny9577 | 1001 | 107 | 894 |
-| rotatingproxies.com | 1001 | 5 | 996 |
-| my-proxy.com | 1001 | 266 | 735 |
+| monosans | 855 | 16 | 839 |
+| jetkai | 1001 | 2 | 999 |
+| ShiftyTR | 993 | 29 | 964 |
+| rootjazz.com | 1001 | 38 | 963 |
+| proxy-list.download | 1001 | 4 | 997 |
+| ErcinDedeoglu | 1001 | 57 | 944 |
+| B4RC0DE-TM | 1001 | 6 | 995 |
+| zloi-user | 1001 | 20 | 981 |
+| sunny9577 | 1001 | 80 | 921 |
+| openproxylist.xyz | 1001 | 27 | 974 |
+| mmppx12 | 1001 | 39 | 962 |
+| rotatingproxies.com | 1001 | 6 | 995 |
+| proxyscrape.com | 1001 | 669 | 332 |
+| proxylist.geonode.com | 1001 | 18 | 983 |
+| proxy4parsing | 1001 | 10 | 991 |
+| TheSpeedX | 1001 | 147 | 854 |
+| my-proxy.com | 1001 | 237 | 764 |
+| proxyspace.pro | 1001 | 11 | 990 |
