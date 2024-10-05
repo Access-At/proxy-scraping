@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 88 | 4 | 84 |
-| proxifly | 289 | 16 | 273 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 87 | 2 | 85 |
+| roosterkid | 269 | 19 | 250 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 262 | 18 | 244 |
-| clarketm | 400 | 3 | 397 |
-| Zaeem20 | 468 | 143 | 325 |
-| mmppx12 | 1001 | 60 | 941 |
-| jetkai | 1001 | 6 | 995 |
-| rootjazz.com | 1001 | 28 | 973 |
-| zloi-user | 1001 | 121 | 880 |
-| rotatingproxies.com | 1001 | 5 | 996 |
-| ErcinDedeoglu | 1001 | 37 | 964 |
-| proxyspace.pro | 1001 | 51 | 950 |
-| monosans | 1001 | 77 | 924 |
-| B4RC0DE-TM | 1001 | 4 | 997 |
+| clarketm | 400 | 5 | 395 |
+| proxifly | 443 | 19 | 424 |
+| Zaeem20 | 486 | 146 | 340 |
+| jetkai | 1001 | 20 | 981 |
+| proxyscrape.com | 1001 | 612 | 389 |
+| proxyspace.pro | 1001 | 10 | 991 |
+| rotatingproxies.com | 1001 | 8 | 993 |
+| zloi-user | 1001 | 99 | 902 |
+| proxy4parsing | 1001 | 6 | 995 |
+| my-proxy.com | 1001 | 415 | 586 |
+| proxy-list.download | 1001 | 8 | 993 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| proxyscrape.com | 1001 | 616 | 385 |
-| sunny9577 | 1001 | 104 | 897 |
-| openproxylist.xyz | 1001 | 30 | 971 |
-| proxy-list.download | 1001 | 5 | 996 |
-| proxylist.geonode.com | 1001 | 19 | 982 |
-| proxy4parsing | 1001 | 5 | 996 |
-| my-proxy.com | 1001 | 401 | 600 |
-| TheSpeedX | 1001 | 212 | 789 |
-| ShiftyTR | 993 | 25 | 968 |
+| mmppx12 | 1001 | 36 | 965 |
+| monosans | 1001 | 24 | 977 |
+| sunny9577 | 1001 | 105 | 896 |
+| B4RC0DE-TM | 1001 | 10 | 991 |
+| ErcinDedeoglu | 1001 | 18 | 983 |
+| proxylist.geonode.com | 1001 | 22 | 979 |
+| ShiftyTR | 993 | 33 | 960 |
+| rootjazz.com | 1001 | 28 | 973 |
+| openproxylist.xyz | 1001 | 20 | 981 |
+| TheSpeedX | 1001 | 174 | 827 |
