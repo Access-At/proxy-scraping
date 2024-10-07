@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 91 | 1 | 90 |
+| spys | 0 | 0 | 0 |
+| hookzof | 97 | 6 | 91 |
+| roosterkid | 294 | 24 | 270 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 279 | 26 | 253 |
-| proxy-list.download | 282 | 2 | 280 |
-| proxifly | 295 | 13 | 282 |
-| clarketm | 400 | 11 | 389 |
-| Zaeem20 | 582 | 186 | 396 |
-| ErcinDedeoglu | 1001 | 67 | 934 |
-| zloi-user | 1001 | 0 | 1001 |
-| rootjazz.com | 1001 | 45 | 956 |
-| ShiftyTR | 993 | 30 | 963 |
-| jetkai | 1001 | 7 | 994 |
+| proxifly | 323 | 22 | 301 |
+| clarketm | 400 | 5 | 395 |
+| Zaeem20 | 600 | 190 | 410 |
+| mmppx12 | 1001 | 50 | 951 |
+| ShiftyTR | 993 | 36 | 957 |
+| monosans | 1001 | 55 | 946 |
+| jetkai | 1001 | 27 | 974 |
+| proxyscrape.com | 1001 | 673 | 328 |
+| rootjazz.com | 1001 | 43 | 958 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| proxyspace.pro | 1001 | 13 | 988 |
-| sunny9577 | 1001 | 78 | 923 |
-| my-proxy.com | 1001 | 552 | 449 |
-| mmppx12 | 1001 | 84 | 917 |
-| B4RC0DE-TM | 1001 | 13 | 988 |
-| proxyscrape.com | 1001 | 651 | 350 |
-| proxylist.geonode.com | 1001 | 23 | 978 |
-| monosans | 1001 | 40 | 961 |
-| openproxylist.xyz | 1001 | 40 | 961 |
-| proxy4parsing | 1001 | 6 | 995 |
-| TheSpeedX | 1001 | 146 | 855 |
-| rotatingproxies.com | 1001 | 4 | 997 |
+| proxyspace.pro | 1001 | 14 | 987 |
+| B4RC0DE-TM | 1001 | 2 | 999 |
+| zloi-user | 1001 | 19 | 982 |
+| ErcinDedeoglu | 1001 | 79 | 922 |
+| sunny9577 | 1001 | 100 | 901 |
+| proxy4parsing | 1001 | 8 | 993 |
+| proxy-list.download | 1001 | 4 | 997 |
+| openproxylist.xyz | 1001 | 29 | 972 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| proxylist.geonode.com | 1001 | 28 | 973 |
+| my-proxy.com | 1001 | 499 | 502 |
+| TheSpeedX | 1001 | 141 | 860 |
