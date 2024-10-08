@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 103 | 4 | 99 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 95 | 4 | 91 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| roosterkid | 276 | 30 | 246 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 273 | 31 | 242 |
-| proxy-list.download | 282 | 3 | 279 |
-| clarketm | 400 | 4 | 396 |
-| proxifly | 375 | 19 | 356 |
-| Zaeem20 | 527 | 189 | 338 |
-| ErcinDedeoglu | 1001 | 70 | 931 |
-| proxyscrape.com | 1001 | 717 | 284 |
-| zloi-user | 1001 | 151 | 850 |
-| proxyspace.pro | 1001 | 13 | 988 |
-| mmppx12 | 1001 | 98 | 903 |
-| rootjazz.com | 1001 | 42 | 959 |
-| monosans | 1001 | 50 | 951 |
-| ShiftyTR | 993 | 30 | 963 |
-| jetkai | 1001 | 28 | 973 |
-| sunny9577 | 1001 | 99 | 902 |
-| openproxylist.xyz | 1001 | 27 | 974 |
-| proxy4parsing | 1001 | 9 | 992 |
-| proxylist.geonode.com | 1001 | 17 | 984 |
+| clarketm | 400 | 6 | 394 |
+| proxifly | 448 | 19 | 429 |
+| Zaeem20 | 549 | 186 | 363 |
+| proxyscrape.com | 1001 | 664 | 337 |
+| jetkai | 1001 | 24 | 977 |
+| rotatingproxies.com | 1001 | 4 | 997 |
+| ErcinDedeoglu | 1001 | 90 | 911 |
+| my-proxy.com | 1001 | 607 | 394 |
+| proxyspace.pro | 1001 | 199 | 802 |
+| sunny9577 | 1001 | 82 | 919 |
+| mmppx12 | 1001 | 96 | 905 |
+| zloi-user | 1001 | 112 | 889 |
+| rootjazz.com | 1001 | 44 | 957 |
+| proxy-list.download | 1001 | 3 | 998 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 16 | 985 |
-| rotatingproxies.com | 1001 | 6 | 995 |
-| my-proxy.com | 1001 | 618 | 383 |
-| TheSpeedX | 1001 | 152 | 849 |
+| proxylist.geonode.com | 1001 | 15 | 986 |
+| monosans | 1001 | 72 | 929 |
+| openproxylist.xyz | 1001 | 30 | 971 |
+| proxy4parsing | 1001 | 4 | 997 |
+| TheSpeedX | 1001 | 142 | 859 |
+| ShiftyTR | 993 | 28 | 965 |
