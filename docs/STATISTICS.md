@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 89 | 8 | 81 |
+| spys | 0 | 0 | 0 |
+| hookzof | 98 | 4 | 94 |
+| roosterkid | 298 | 24 | 274 |
 | opsxcq | 343 | 0 | 343 |
-| proxyscrape.com | 1001 | 817 | 184 |
-| roosterkid | 305 | 24 | 281 |
-| clarketm | 400 | 3 | 397 |
-| zloi-user | 1001 | 113 | 888 |
-| ErcinDedeoglu | 1001 | 51 | 950 |
-| rootjazz.com | 1001 | 40 | 961 |
-| rotatingproxies.com | 1001 | 5 | 996 |
-| Zaeem20 | 475 | 150 | 325 |
-| proxy-list.download | 282 | 2 | 280 |
-| proxifly | 267 | 10 | 257 |
-| monosans | 1001 | 66 | 935 |
-| mmppx12 | 1001 | 32 | 969 |
-| proxyspace.pro | 1001 | 96 | 905 |
+| proxifly | 287 | 12 | 275 |
+| Zaeem20 | 438 | 134 | 304 |
+| clarketm | 400 | 2 | 398 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 19 | 982 |
-| ShiftyTR | 993 | 28 | 965 |
-| jetkai | 1001 | 20 | 981 |
-| my-proxy.com | 1001 | 167 | 834 |
-| proxy4parsing | 1001 | 9 | 992 |
-| proxylist.geonode.com | 1001 | 21 | 980 |
-| openproxylist.xyz | 1001 | 26 | 975 |
-| TheSpeedX | 1001 | 155 | 846 |
-| sunny9577 | 1001 | 92 | 909 |
+| zloi-user | 1001 | 0 | 1001 |
+| jetkai | 1001 | 19 | 982 |
+| mmppx12 | 1001 | 68 | 933 |
+| ErcinDedeoglu | 1001 | 84 | 917 |
+| ShiftyTR | 993 | 27 | 966 |
+| rootjazz.com | 1001 | 26 | 975 |
+| proxyspace.pro | 1001 | 14 | 987 |
+| rotatingproxies.com | 1001 | 3 | 998 |
+| sunny9577 | 1001 | 100 | 901 |
+| B4RC0DE-TM | 1001 | 11 | 990 |
+| monosans | 1001 | 84 | 917 |
+| proxy-list.download | 1001 | 1 | 1000 |
+| proxy4parsing | 1001 | 8 | 993 |
+| openproxylist.xyz | 1001 | 24 | 977 |
+| proxylist.geonode.com | 1001 | 17 | 984 |
+| proxyscrape.com | 1001 | 643 | 358 |
+| TheSpeedX | 1001 | 151 | 850 |
+| my-proxy.com | 1001 | 158 | 843 |
