@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 96 | 8 | 88 |
-| roosterkid | 284 | 20 | 264 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 101 | 12 | 89 |
+| proxifly | 211 | 15 | 196 |
+| roosterkid | 279 | 15 | 264 |
 | opsxcq | 343 | 0 | 343 |
-| Zaeem20 | 463 | 174 | 289 |
-| proxifly | 386 | 17 | 369 |
-| clarketm | 400 | 7 | 393 |
-| ErcinDedeoglu | 1001 | 56 | 945 |
-| multiproxy.org | 1001 | 1 | 1000 |
-| proxyspace.pro | 1001 | 103 | 898 |
-| zloi-user | 1001 | 96 | 905 |
-| rootjazz.com | 1001 | 31 | 970 |
-| TheSpeedX | 1001 | 90 | 911 |
-| proxy-list.download | 1001 | 1 | 1000 |
-| openproxylist.xyz | 1001 | 31 | 970 |
-| sunny9577 | 1001 | 80 | 921 |
-| ShiftyTR | 993 | 30 | 963 |
-| proxylist.geonode.com | 1001 | 15 | 986 |
-| rotatingproxies.com | 1001 | 2 | 999 |
-| monosans | 1001 | 39 | 962 |
-| proxy4parsing | 1001 | 11 | 990 |
-| mmppx12 | 1001 | 77 | 924 |
-| proxyscrape.com | 1001 | 701 | 300 |
-| my-proxy.com | 1001 | 246 | 755 |
+| Zaeem20 | 441 | 157 | 284 |
+| clarketm | 400 | 6 | 394 |
+| mmppx12 | 1001 | 82 | 919 |
+| ErcinDedeoglu | 1001 | 45 | 956 |
 | jetkai | 1001 | 25 | 976 |
-| B4RC0DE-TM | 1001 | 14 | 987 |
+| zloi-user | 1001 | 59 | 942 |
+| proxyscrape.com | 1001 | 551 | 450 |
+| sunny9577 | 1001 | 114 | 887 |
+| ShiftyTR | 993 | 30 | 963 |
+| monosans | 1001 | 30 | 971 |
+| proxyspace.pro | 1001 | 95 | 906 |
+| proxylist.geonode.com | 1001 | 11 | 990 |
+| B4RC0DE-TM | 1001 | 15 | 986 |
+| multiproxy.org | 1001 | 1 | 1000 |
+| TheSpeedX | 1001 | 105 | 896 |
+| proxy-list.download | 1001 | 3 | 998 |
+| rootjazz.com | 1001 | 32 | 969 |
+| proxy4parsing | 1001 | 10 | 991 |
+| openproxylist.xyz | 1001 | 31 | 970 |
+| my-proxy.com | 1001 | 237 | 764 |
+| rotatingproxies.com | 0 | 0 | 0 |
