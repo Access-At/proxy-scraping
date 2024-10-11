@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 99 | 6 | 93 |
-| proxy-list.download | 192 | 1 | 191 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 103 | 9 | 94 |
+| roosterkid | 302 | 33 | 269 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 312 | 28 | 284 |
-| proxifly | 257 | 24 | 233 |
-| clarketm | 400 | 4 | 396 |
-| Zaeem20 | 488 | 163 | 325 |
-| proxyscrape.com | 1001 | 753 | 248 |
-| B4RC0DE-TM | 1001 | 12 | 989 |
-| sunny9577 | 1001 | 91 | 910 |
-| multiproxy.org | 1001 | 1 | 1000 |
-| mmppx12 | 1001 | 101 | 900 |
-| monosans | 1001 | 60 | 941 |
-| rootjazz.com | 1001 | 31 | 970 |
-| ErcinDedeoglu | 1001 | 75 | 926 |
-| jetkai | 1001 | 22 | 979 |
+| proxifly | 278 | 17 | 261 |
+| clarketm | 400 | 3 | 397 |
+| Zaeem20 | 558 | 167 | 391 |
+| ErcinDedeoglu | 1001 | 60 | 941 |
+| proxyscrape.com | 1001 | 675 | 326 |
+| monosans | 1001 | 33 | 968 |
+| sunny9577 | 1001 | 133 | 868 |
+| mmppx12 | 1001 | 89 | 912 |
+| proxy-list.download | 1001 | 4 | 997 |
+| rootjazz.com | 1001 | 29 | 972 |
+| B4RC0DE-TM | 1001 | 18 | 983 |
+| proxyspace.pro | 1001 | 67 | 934 |
+| jetkai | 1001 | 24 | 977 |
+| zloi-user | 1001 | 145 | 856 |
+| openproxylist.xyz | 1001 | 31 | 970 |
 | proxy4parsing | 1001 | 11 | 990 |
-| zloi-user | 1001 | 136 | 865 |
-| proxyspace.pro | 1001 | 82 | 919 |
-| TheSpeedX | 1001 | 103 | 898 |
-| openproxylist.xyz | 1001 | 28 | 973 |
-| proxylist.geonode.com | 1001 | 23 | 978 |
-| rotatingproxies.com | 1001 | 5 | 996 |
+| proxylist.geonode.com | 1001 | 20 | 981 |
 | ShiftyTR | 993 | 28 | 965 |
-| my-proxy.com | 1001 | 258 | 743 |
+| multiproxy.org | 1001 | 1 | 1000 |
+| rotatingproxies.com | 1001 | 5 | 996 |
+| my-proxy.com | 1001 | 240 | 761 |
+| TheSpeedX | 1001 | 99 | 902 |
