@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 110 | 2 | 108 |
-| roosterkid | 260 | 16 | 244 |
-| Zaeem20 | 385 | 112 | 273 |
+| spys | 0 | 0 | 0 |
+| hookzof | 109 | 5 | 104 |
+| roosterkid | 251 | 18 | 233 |
+| proxifly | 208 | 12 | 196 |
 | opsxcq | 343 | 0 | 343 |
-| proxy-list.download | 282 | 3 | 279 |
-| clarketm | 400 | 1 | 399 |
-| proxifly | 450 | 20 | 430 |
-| ErcinDedeoglu | 1001 | 42 | 959 |
+| Zaeem20 | 360 | 122 | 238 |
+| clarketm | 400 | 3 | 397 |
+| ErcinDedeoglu | 1001 | 57 | 944 |
+| jetkai | 1001 | 19 | 982 |
+| mmppx12 | 1001 | 76 | 925 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| mmppx12 | 1001 | 81 | 920 |
-| jetkai | 1001 | 25 | 976 |
-| rootjazz.com | 1001 | 17 | 984 |
-| proxy4parsing | 1001 | 8 | 993 |
-| sunny9577 | 1001 | 84 | 917 |
-| proxylist.geonode.com | 1001 | 9 | 992 |
-| rotatingproxies.com | 1001 | 1 | 1000 |
-| proxyscrape.com | 1001 | 541 | 460 |
-| monosans | 1001 | 46 | 955 |
-| B4RC0DE-TM | 1001 | 17 | 984 |
-| openproxylist.xyz | 1001 | 17 | 984 |
-| my-proxy.com | 1001 | 146 | 855 |
-| proxyspace.pro | 1001 | 136 | 865 |
-| TheSpeedX | 1001 | 131 | 870 |
-| ShiftyTR | 993 | 33 | 960 |
-| zloi-user | 1001 | 75 | 926 |
+| zloi-user | 1001 | 66 | 935 |
+| sunny9577 | 1001 | 89 | 912 |
+| proxyscrape.com | 1001 | 547 | 454 |
+| proxy-list.download | 1001 | 3 | 998 |
+| B4RC0DE-TM | 1001 | 12 | 989 |
+| rootjazz.com | 1001 | 15 | 986 |
+| ShiftyTR | 993 | 22 | 971 |
+| monosans | 1001 | 16 | 985 |
+| rotatingproxies.com | 1001 | 5 | 996 |
+| proxylist.geonode.com | 1001 | 19 | 982 |
+| proxy4parsing | 1001 | 6 | 995 |
+| openproxylist.xyz | 1001 | 19 | 982 |
+| TheSpeedX | 1001 | 102 | 899 |
+| proxyspace.pro | 1001 | 154 | 847 |
+| my-proxy.com | 1001 | 157 | 844 |
