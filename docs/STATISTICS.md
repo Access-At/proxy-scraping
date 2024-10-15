@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 58 | 5 | 53 |
-| roosterkid | 243 | 17 | 226 |
-| proxy-list.download | 192 | 0 | 192 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 63 | 3 | 60 |
+| roosterkid | 233 | 20 | 213 |
+| proxifly | 238 | 13 | 225 |
 | opsxcq | 343 | 0 | 343 |
-| proxifly | 279 | 19 | 260 |
-| Zaeem20 | 432 | 148 | 284 |
-| clarketm | 400 | 1 | 399 |
-| ErcinDedeoglu | 1001 | 56 | 945 |
-| mmppx12 | 1001 | 33 | 968 |
+| clarketm | 400 | 7 | 393 |
+| Zaeem20 | 621 | 181 | 440 |
+| proxyspace.pro | 1001 | 8 | 993 |
+| proxyscrape.com | 1001 | 723 | 278 |
+| rotatingproxies.com | 1001 | 4 | 997 |
+| ShiftyTR | 993 | 29 | 964 |
+| monosans | 1001 | 64 | 937 |
+| sunny9577 | 1001 | 112 | 889 |
+| ErcinDedeoglu | 1001 | 77 | 924 |
+| B4RC0DE-TM | 1001 | 14 | 987 |
+| zloi-user | 1001 | 0 | 1001 |
+| rootjazz.com | 1001 | 39 | 962 |
+| TheSpeedX | 1001 | 143 | 858 |
+| proxy-list.download | 1001 | 4 | 997 |
 | multiproxy.org | 1001 | 1 | 1000 |
-| proxyscrape.com | 1001 | 667 | 334 |
-| zloi-user | 1001 | 106 | 895 |
-| rootjazz.com | 1001 | 26 | 975 |
-| sunny9577 | 1001 | 72 | 929 |
-| monosans | 997 | 50 | 947 |
-| ShiftyTR | 993 | 19 | 974 |
-| jetkai | 1001 | 11 | 990 |
-| proxy4parsing | 1001 | 10 | 991 |
-| openproxylist.xyz | 1001 | 16 | 985 |
-| B4RC0DE-TM | 1001 | 9 | 992 |
-| rotatingproxies.com | 1001 | 3 | 998 |
-| TheSpeedX | 1001 | 96 | 905 |
-| proxylist.geonode.com | 1001 | 9 | 992 |
-| my-proxy.com | 910 | 246 | 664 |
-| proxyspace.pro | 1001 | 89 | 912 |
+| openproxylist.xyz | 1001 | 32 | 969 |
+| my-proxy.com | 910 | 249 | 661 |
+| mmppx12 | 1001 | 90 | 911 |
+| jetkai | 1001 | 22 | 979 |
+| proxy4parsing | 1001 | 11 | 990 |
+| proxylist.geonode.com | 1001 | 11 | 990 |
