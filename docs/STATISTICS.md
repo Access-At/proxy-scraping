@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 140 | 10 | 130 |
+| spys | 0 | 0 | 0 |
+| hookzof | 118 | 6 | 112 |
+| roosterkid | 257 | 24 | 233 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 256 | 20 | 236 |
-| clarketm | 400 | 5 | 395 |
-| Zaeem20 | 523 | 169 | 354 |
+| proxy-list.download | 282 | 0 | 282 |
+| Zaeem20 | 468 | 168 | 300 |
+| clarketm | 400 | 3 | 397 |
 | multiproxy.org | 1001 | 0 | 1001 |
-| ErcinDedeoglu | 1001 | 78 | 923 |
-| mmppx12 | 1001 | 87 | 914 |
 | jetkai | 1001 | 22 | 979 |
-| proxyspace.pro | 1001 | 18 | 983 |
-| proxyscrape.com | 1001 | 632 | 369 |
-| zloi-user | 1001 | 95 | 906 |
-| proxifly | 1001 | 7 | 994 |
-| ShiftyTR | 993 | 24 | 969 |
-| rootjazz.com | 1001 | 30 | 971 |
-| monosans | 1001 | 42 | 959 |
-| B4RC0DE-TM | 1001 | 8 | 993 |
-| proxy4parsing | 1001 | 9 | 992 |
-| proxylist.geonode.com | 1001 | 23 | 978 |
-| proxy-list.download | 1001 | 3 | 998 |
-| openproxylist.xyz | 1001 | 22 | 979 |
-| rotatingproxies.com | 1001 | 3 | 998 |
-| my-proxy.com | 910 | 592 | 318 |
-| sunny9577 | 1001 | 267 | 734 |
-| TheSpeedX | 1001 | 203 | 798 |
+| mmppx12 | 1001 | 97 | 904 |
+| ErcinDedeoglu | 1001 | 90 | 911 |
+| proxyscrape.com | 1001 | 698 | 303 |
+| zloi-user | 1001 | 128 | 873 |
+| rootjazz.com | 1001 | 31 | 970 |
+| proxifly | 1001 | 14 | 987 |
+| B4RC0DE-TM | 1001 | 11 | 990 |
+| ShiftyTR | 993 | 30 | 963 |
+| proxy4parsing | 1001 | 10 | 991 |
+| monosans | 1001 | 54 | 947 |
+| sunny9577 | 1001 | 80 | 921 |
+| proxylist.geonode.com | 1001 | 14 | 987 |
+| openproxylist.xyz | 1001 | 25 | 976 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| my-proxy.com | 910 | 594 | 316 |
+| proxyspace.pro | 1001 | 295 | 706 |
+| TheSpeedX | 1001 | 208 | 793 |
