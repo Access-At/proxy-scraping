@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 133 | 16 | 117 |
-| roosterkid | 245 | 17 | 228 |
 | opsxcq | 343 | 0 | 343 |
-| proxifly | 300 | 20 | 280 |
-| clarketm | 400 | 6 | 394 |
-| Zaeem20 | 604 | 202 | 402 |
-| ErcinDedeoglu | 1001 | 74 | 927 |
-| proxyscrape.com | 1001 | 807 | 194 |
-| proxyspace.pro | 1001 | 36 | 965 |
-| jetkai | 1001 | 20 | 981 |
-| mmppx12 | 1001 | 110 | 891 |
-| sunny9577 | 1001 | 154 | 847 |
-| multiproxy.org | 1001 | 1 | 1000 |
-| proxy-list.download | 1001 | 1 | 1000 |
-| monosans | 1001 | 89 | 912 |
-| rootjazz.com | 1001 | 49 | 952 |
-| ShiftyTR | 993 | 25 | 968 |
-| rotatingproxies.com | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 11 | 990 |
-| proxylist.geonode.com | 1001 | 41 | 960 |
-| TheSpeedX | 1001 | 105 | 896 |
+| hookzof | 146 | 9 | 137 |
+| roosterkid | 273 | 24 | 249 |
+| clarketm | 400 | 3 | 397 |
+| proxyscrape.com | 1001 | 767 | 234 |
+| my-proxy.com | 910 | 284 | 626 |
+| spys | 800 | 65 | 735 |
+| Zaeem20 | 601 | 202 | 399 |
+| monosans | 1001 | 65 | 936 |
+| ErcinDedeoglu | 1001 | 68 | 933 |
+| proxyspace.pro | 1001 | 101 | 900 |
+| rootjazz.com | 1001 | 44 | 957 |
+| TheSpeedX | 1001 | 160 | 841 |
+| proxylist.geonode.com | 1001 | 9 | 992 |
+| mmppx12 | 1001 | 148 | 853 |
+| proxy-list.download | 1001 | 3 | 998 |
+| jetkai | 1001 | 17 | 984 |
+| rotatingproxies.com | 1001 | 2 | 999 |
 | proxy4parsing | 1001 | 11 | 990 |
-| openproxylist.xyz | 1001 | 36 | 965 |
-| my-proxy.com | 910 | 330 | 580 |
-| zloi-user | 1001 | 174 | 827 |
+| zloi-user | 1001 | 172 | 829 |
+| multiproxy.org | 1001 | 1 | 1000 |
+| openproxylist.xyz | 1001 | 24 | 977 |
+| ShiftyTR | 993 | 27 | 966 |
+| proxifly | 1001 | 14 | 987 |
+| sunny9577 | 1001 | 154 | 847 |
+| B4RC0DE-TM | 1001 | 15 | 986 |
