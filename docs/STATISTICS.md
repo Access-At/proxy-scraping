@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| hookzof | 126 | 8 | 118 |
+| proxy-list.download | 180 | 0 | 180 |
+| roosterkid | 250 | 22 | 228 |
 | opsxcq | 343 | 0 | 343 |
-| hookzof | 130 | 8 | 122 |
-| roosterkid | 246 | 22 | 224 |
-| clarketm | 400 | 0 | 400 |
-| Zaeem20 | 552 | 158 | 394 |
-| rootjazz.com | 1001 | 25 | 976 |
-| my-proxy.com | 910 | 625 | 285 |
-| proxyscrape.com | 1001 | 646 | 355 |
-| jetkai | 1001 | 15 | 986 |
-| mmppx12 | 1001 | 77 | 924 |
-| monosans | 927 | 36 | 891 |
-| proxyspace.pro | 1001 | 17 | 984 |
-| ErcinDedeoglu | 1001 | 44 | 957 |
-| zloi-user | 1001 | 94 | 907 |
+| clarketm | 400 | 3 | 397 |
+| Zaeem20 | 462 | 149 | 313 |
+| ErcinDedeoglu | 1001 | 79 | 922 |
+| proxifly | 1001 | 16 | 985 |
 | multiproxy.org | 1001 | 0 | 1001 |
-| proxy-list.download | 1001 | 2 | 999 |
-| B4RC0DE-TM | 1001 | 7 | 994 |
-| openproxylist.xyz | 1001 | 18 | 983 |
-| TheSpeedX | 1001 | 153 | 848 |
-| ShiftyTR | 993 | 20 | 973 |
-| proxy4parsing | 1001 | 7 | 994 |
-| proxylist.geonode.com | 1001 | 52 | 949 |
-| rotatingproxies.com | 1001 | 1 | 1000 |
-| proxifly | 1001 | 4 | 997 |
-| sunny9577 | 1001 | 106 | 895 |
+| jetkai | 1001 | 7 | 994 |
+| mmppx12 | 1001 | 97 | 904 |
+| B4RC0DE-TM | 1001 | 11 | 990 |
+| monosans | 996 | 47 | 949 |
+| zloi-user | 1001 | 110 | 891 |
+| rootjazz.com | 1001 | 31 | 970 |
+| ShiftyTR | 993 | 32 | 961 |
+| my-proxy.com | 910 | 613 | 297 |
+| proxy4parsing | 1001 | 8 | 993 |
+| proxyscrape.com | 1001 | 705 | 296 |
+| TheSpeedX | 1001 | 154 | 847 |
+| openproxylist.xyz | 1001 | 30 | 971 |
+| proxylist.geonode.com | 1001 | 14 | 987 |
+| sunny9577 | 1001 | 268 | 733 |
+| proxyspace.pro | 1001 | 238 | 763 |
+| rotatingproxies.com | 1001 | 5 | 996 |
