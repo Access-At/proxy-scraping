@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 106 | 7 | 99 |
-| roosterkid | 281 | 25 | 256 |
+| spys | 0 | 0 | 0 |
+| hookzof | 65 | 6 | 59 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 10 | 390 |
-| Zaeem20 | 462 | 164 | 298 |
-| mmppx12 | 1001 | 96 | 905 |
-| proxyscrape.com | 1001 | 729 | 272 |
-| rootjazz.com | 1001 | 36 | 965 |
-| ErcinDedeoglu | 1001 | 85 | 916 |
-| jetkai | 1001 | 17 | 984 |
-| ShiftyTR | 993 | 25 | 968 |
-| proxyspace.pro | 1001 | 5 | 996 |
-| proxifly | 1001 | 12 | 989 |
-| zloi-user | 1001 | 136 | 865 |
-| B4RC0DE-TM | 1001 | 14 | 987 |
-| proxy-list.download | 1001 | 3 | 998 |
+| roosterkid | 271 | 24 | 247 |
+| clarketm | 400 | 7 | 393 |
+| Zaeem20 | 538 | 153 | 385 |
+| mmppx12 | 1001 | 85 | 916 |
+| jetkai | 1001 | 16 | 985 |
+| proxyscrape.com | 1001 | 700 | 301 |
+| ErcinDedeoglu | 1001 | 74 | 927 |
+| rootjazz.com | 1001 | 24 | 977 |
+| proxyspace.pro | 1001 | 102 | 899 |
+| ShiftyTR | 993 | 29 | 964 |
 | rotatingproxies.com | 1001 | 4 | 997 |
-| monosans | 1001 | 45 | 956 |
-| openproxylist.xyz | 1001 | 27 | 974 |
-| multiproxy.org | 1001 | 1 | 1000 |
-| proxy4parsing | 1001 | 9 | 992 |
-| proxylist.geonode.com | 1001 | 18 | 983 |
-| sunny9577 | 1001 | 132 | 869 |
-| my-proxy.com | 910 | 462 | 448 |
-| TheSpeedX | 1001 | 148 | 853 |
+| proxy4parsing | 1001 | 13 | 988 |
+| multiproxy.org | 1001 | 0 | 1001 |
+| proxifly | 1001 | 16 | 985 |
+| zloi-user | 1001 | 126 | 875 |
+| monosans | 1001 | 28 | 973 |
+| sunny9577 | 1001 | 100 | 901 |
+| proxy-list.download | 1001 | 3 | 998 |
+| B4RC0DE-TM | 1001 | 13 | 988 |
+| openproxylist.xyz | 1001 | 25 | 976 |
+| proxylist.geonode.com | 1001 | 24 | 977 |
+| my-proxy.com | 910 | 504 | 406 |
+| TheSpeedX | 1001 | 127 | 874 |
