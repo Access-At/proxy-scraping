@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
+| socks5 | 22 |
 | https | 14 |
 | socks4 | 20 |
-| socks5 | 22 |
 | unknown | 4 |
+| http | 21 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
+| hookzof | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 245 | 26 | 219 |
-| roosterkid | 252 | 16 | 236 |
-| opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 3 | 397 |
-| Zaeem20 | 537 | 147 | 390 |
-| spys | 800 | 46 | 754 |
-| jetkai | 1001 | 28 | 973 |
-| mmppx12 | 1001 | 109 | 892 |
-| proxyscrape.com | 1001 | 764 | 237 |
-| ErcinDedeoglu | 1001 | 56 | 945 |
-| rootjazz.com | 1001 | 22 | 979 |
-| ShiftyTR | 993 | 38 | 955 |
-| monosans | 1001 | 40 | 961 |
-| proxifly | 1001 | 17 | 984 |
-| rotatingproxies.com | 1001 | 7 | 994 |
-| zloi-user | 1001 | 127 | 874 |
-| proxy4parsing | 1001 | 7 | 994 |
-| sunny9577 | 1001 | 144 | 857 |
-| B4RC0DE-TM | 1001 | 18 | 983 |
-| proxy-list.download | 1001 | 7 | 994 |
-| openproxylist.xyz | 1001 | 31 | 970 |
-| TheSpeedX | 1001 | 199 | 802 |
-| multiproxy.org | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 545 | 456 |
-| proxylist.geonode.com | 1001 | 8 | 993 |
-| proxyspace.pro | 1001 | 127 | 874 |
+| monosans | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| opsxcq | 0 | 0 | 0 |
+| rootjazz.com | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
