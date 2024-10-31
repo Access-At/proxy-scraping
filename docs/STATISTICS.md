@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 74 | 5 | 69 |
-| roosterkid | 257 | 13 | 244 |
+| spys | 0 | 0 | 0 |
+| hookzof | 79 | 2 | 77 |
+| roosterkid | 259 | 15 | 244 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 6 | 394 |
-| Zaeem20 | 635 | 200 | 435 |
-| mmppx12 | 1001 | 104 | 897 |
-| jetkai | 1001 | 18 | 983 |
-| ErcinDedeoglu | 1001 | 99 | 902 |
-| sunny9577 | 1001 | 164 | 837 |
+| clarketm | 400 | 10 | 390 |
+| Zaeem20 | 777 | 266 | 511 |
+| mmppx12 | 1001 | 111 | 890 |
+| proxyscrape.com | 1001 | 968 | 33 |
+| jetkai | 1001 | 24 | 977 |
+| ErcinDedeoglu | 1001 | 93 | 908 |
+| proxyspace.pro | 1001 | 27 | 974 |
+| sunny9577 | 1001 | 184 | 817 |
+| rootjazz.com | 1001 | 55 | 946 |
+| zloi-user | 1001 | 268 | 733 |
 | proxifly | 1001 | 19 | 982 |
-| ShiftyTR | 993 | 26 | 967 |
-| proxyscrape.com | 1001 | 940 | 61 |
-| rootjazz.com | 1001 | 52 | 949 |
-| zloi-user | 1001 | 72 | 929 |
-| proxy-list.download | 1001 | 3 | 998 |
-| monosans | 1001 | 93 | 908 |
-| openproxylist.xyz | 1001 | 26 | 975 |
-| proxy4parsing | 1001 | 12 | 989 |
-| my-proxy.com | 1001 | 517 | 484 |
-| B4RC0DE-TM | 1001 | 18 | 983 |
+| rotatingproxies.com | 1001 | 1 | 1000 |
 | multiproxy.org | 1001 | 0 | 1001 |
-| rotatingproxies.com | 1001 | 4 | 997 |
-| TheSpeedX | 1001 | 198 | 803 |
-| proxyspace.pro | 1001 | 136 | 865 |
-| proxylist.geonode.com | 1001 | 22 | 979 |
+| monosans | 1001 | 107 | 894 |
+| ShiftyTR | 993 | 34 | 959 |
+| proxy-list.download | 1001 | 9 | 992 |
+| openproxylist.xyz | 1001 | 29 | 972 |
+| proxylist.geonode.com | 1001 | 34 | 967 |
+| proxy4parsing | 1001 | 10 | 991 |
+| B4RC0DE-TM | 1001 | 24 | 977 |
+| my-proxy.com | 1001 | 511 | 490 |
+| TheSpeedX | 1001 | 204 | 797 |
