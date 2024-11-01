@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks5 | 22 |
 | socks4 | 20 |
+| socks5 | 22 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| spys | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 84 | 1 | 83 |
-| roosterkid | 218 | 10 | 208 |
-| Zaeem20 | 328 | 105 | 223 |
+| spys | 0 | 0 | 0 |
+| hookzof | 68 | 3 | 65 |
+| roosterkid | 224 | 9 | 215 |
+| proxy-list.download | 192 | 6 | 186 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 3 | 397 |
-| zloi-user | 1001 | 128 | 873 |
-| monosans | 986 | 55 | 931 |
-| ShiftyTR | 993 | 34 | 959 |
-| ErcinDedeoglu | 1001 | 73 | 928 |
-| proxyscrape.com | 1001 | 737 | 264 |
-| jetkai | 1001 | 22 | 979 |
-| mmppx12 | 1001 | 98 | 903 |
-| proxifly | 1001 | 23 | 978 |
-| sunny9577 | 1001 | 92 | 909 |
-| rootjazz.com | 1001 | 24 | 977 |
-| proxy4parsing | 1001 | 5 | 996 |
-| openproxylist.xyz | 1001 | 26 | 975 |
+| Zaeem20 | 533 | 140 | 393 |
+| clarketm | 400 | 6 | 394 |
+| proxyspace.pro | 1001 | 15 | 986 |
+| proxyscrape.com | 1001 | 752 | 249 |
+| rotatingproxies.com | 1001 | 6 | 995 |
+| ErcinDedeoglu | 1001 | 64 | 937 |
+| mmppx12 | 1001 | 96 | 905 |
+| jetkai | 1001 | 24 | 977 |
+| rootjazz.com | 1001 | 30 | 971 |
 | multiproxy.org | 1001 | 0 | 1001 |
-| B4RC0DE-TM | 1001 | 18 | 983 |
-| proxy-list.download | 1001 | 8 | 993 |
-| rotatingproxies.com | 1001 | 1 | 1000 |
-| proxylist.geonode.com | 1001 | 20 | 981 |
-| my-proxy.com | 1001 | 429 | 572 |
-| TheSpeedX | 1001 | 128 | 873 |
-| proxyspace.pro | 1001 | 122 | 879 |
+| proxy4parsing | 1001 | 5 | 996 |
+| monosans | 1001 | 53 | 948 |
+| proxifly | 1001 | 31 | 970 |
+| my-proxy.com | 1001 | 417 | 584 |
+| openproxylist.xyz | 1001 | 25 | 976 |
+| zloi-user | 1001 | 132 | 869 |
+| sunny9577 | 1001 | 105 | 896 |
+| ShiftyTR | 993 | 32 | 961 |
+| proxylist.geonode.com | 1001 | 34 | 967 |
+| B4RC0DE-TM | 1001 | 21 | 980 |
+| TheSpeedX | 1001 | 125 | 876 |
