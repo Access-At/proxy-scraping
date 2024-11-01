@@ -20,8 +20,8 @@
 |------------|-------|
 | http | 21 |
 | https | 14 |
-| socks4 | 20 |
 | socks5 | 22 |
+| socks4 | 20 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxydb.net | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| hookzof | 86 | 1 | 85 |
-| roosterkid | 289 | 11 | 278 |
+| proxydb.net | 0 | 0 | 0 |
+| hookzof | 83 | 3 | 80 |
+| roosterkid | 280 | 9 | 271 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 5 | 395 |
-| Zaeem20 | 412 | 130 | 282 |
-| jetkai | 1001 | 15 | 986 |
-| monosans | 1001 | 56 | 945 |
-| proxyspace.pro | 1001 | 23 | 978 |
-| sunny9577 | 1001 | 84 | 917 |
-| proxyscrape.com | 1001 | 688 | 313 |
-| ShiftyTR | 993 | 27 | 966 |
-| ErcinDedeoglu | 1001 | 49 | 952 |
-| rotatingproxies.com | 1001 | 2 | 999 |
-| mmppx12 | 1001 | 64 | 937 |
-| B4RC0DE-TM | 1001 | 16 | 985 |
-| proxy-list.download | 1001 | 6 | 995 |
-| zloi-user | 1001 | 147 | 854 |
-| proxifly | 1001 | 16 | 985 |
-| my-proxy.com | 1001 | 447 | 554 |
-| rootjazz.com | 1001 | 17 | 984 |
-| proxy4parsing | 1001 | 7 | 994 |
+| Zaeem20 | 431 | 120 | 311 |
+| clarketm | 400 | 2 | 398 |
+| mmppx12 | 1001 | 67 | 934 |
+| ErcinDedeoglu | 1001 | 53 | 948 |
+| jetkai | 1001 | 16 | 985 |
+| proxyscrape.com | 1001 | 676 | 325 |
+| proxifly | 1001 | 14 | 987 |
+| rotatingproxies.com | 983 | 3 | 980 |
+| B4RC0DE-TM | 1001 | 13 | 988 |
+| zloi-user | 1001 | 129 | 872 |
+| monosans | 1001 | 52 | 949 |
+| rootjazz.com | 1001 | 22 | 979 |
 | multiproxy.org | 1001 | 0 | 1001 |
-| TheSpeedX | 1001 | 112 | 889 |
-| openproxylist.xyz | 1001 | 15 | 986 |
-| proxylist.geonode.com | 1001 | 22 | 979 |
+| openproxylist.xyz | 1001 | 21 | 980 |
+| sunny9577 | 1001 | 83 | 918 |
+| proxy4parsing | 1001 | 7 | 994 |
+| ShiftyTR | 993 | 25 | 968 |
+| proxy-list.download | 1001 | 6 | 995 |
+| my-proxy.com | 1001 | 511 | 490 |
+| proxylist.geonode.com | 1001 | 15 | 986 |
+| TheSpeedX | 1001 | 121 | 880 |
+| proxyspace.pro | 1001 | 113 | 888 |
