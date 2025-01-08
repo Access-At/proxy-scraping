@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| Zaeem20 | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 142 | 6 | 136 |
 | multiproxy.org | 3 | 0 | 3 |
-| roosterkid | 298 | 14 | 284 |
-| clarketm | 400 | 4 | 396 |
+| hookzof | 131 | 4 | 127 |
+| roosterkid | 293 | 15 | 278 |
+| clarketm | 400 | 2 | 398 |
 | opsxcq | 343 | 0 | 343 |
-| ShiftyTR | 993 | 22 | 971 |
-| mmppx12 | 1001 | 87 | 914 |
-| spys | 800 | 66 | 734 |
-| proxyscrape.com | 1001 | 724 | 277 |
-| ErcinDedeoglu | 1001 | 66 | 935 |
-| jetkai | 1001 | 14 | 987 |
-| zloi-user | 1001 | 124 | 877 |
-| sunny9577 | 1001 | 64 | 937 |
-| rootjazz.com | 1001 | 27 | 974 |
-| my-proxy.com | 910 | 431 | 479 |
-| monosans | 1001 | 47 | 954 |
-| B4RC0DE-TM | 1001 | 9 | 992 |
-| proxy4parsing | 1001 | 4 | 997 |
-| proxifly | 1001 | 17 | 984 |
-| proxy-list.download | 1001 | 4 | 997 |
-| openproxylist.xyz | 1001 | 18 | 983 |
-| TheSpeedX | 1001 | 141 | 860 |
-| proxyspace.pro | 1001 | 172 | 829 |
-| proxylist.geonode.com | 1001 | 14 | 987 |
+| proxy-list.download | 192 | 2 | 190 |
+| Zaeem20 | 384 | 102 | 282 |
+| jetkai | 1001 | 7 | 994 |
+| mmppx12 | 1001 | 75 | 926 |
+| ShiftyTR | 993 | 10 | 983 |
+| spys | 800 | 58 | 742 |
+| monosans | 1001 | 31 | 970 |
+| proxyscrape.com | 1001 | 761 | 240 |
+| rootjazz.com | 1001 | 26 | 975 |
+| ErcinDedeoglu | 1001 | 59 | 942 |
+| sunny9577 | 1001 | 72 | 929 |
+| proxy4parsing | 1001 | 5 | 996 |
+| zloi-user | 1001 | 123 | 878 |
+| B4RC0DE-TM | 1001 | 4 | 997 |
+| TheSpeedX | 1001 | 138 | 863 |
+| openproxylist.xyz | 1001 | 16 | 985 |
+| proxifly | 1001 | 11 | 990 |
+| my-proxy.com | 910 | 459 | 451 |
+| proxyspace.pro | 1001 | 163 | 838 |
+| proxylist.geonode.com | 1001 | 15 | 986 |
 | rotatingproxies.com | 0 | 0 | 0 |
