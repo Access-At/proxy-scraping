@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 85 | 9 | 76 |
-| roosterkid | 229 | 7 | 222 |
+| multiproxy.org | 0 | 0 | 0 |
+| hookzof | 103 | 11 | 92 |
+| roosterkid | 231 | 10 | 221 |
+| proxy-list.download | 282 | 4 | 278 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 2 | 398 |
-| proxy-list.download | 282 | 3 | 279 |
-| mmppx12 | 1001 | 39 | 962 |
-| jetkai | 1001 | 6 | 995 |
+| clarketm | 400 | 3 | 397 |
+| spys | 800 | 44 | 756 |
+| mmppx12 | 1001 | 120 | 881 |
+| Zaeem20 | 912 | 350 | 562 |
+| jetkai | 1001 | 19 | 982 |
+| proxyspace.pro | 1001 | 53 | 948 |
+| monosans | 976 | 105 | 871 |
+| rotatingproxies.com | 1001 | 2 | 999 |
 | ShiftyTR | 993 | 27 | 966 |
-| Zaeem20 | 859 | 280 | 579 |
-| rootjazz.com | 1001 | 10 | 991 |
-| proxyscrape.com | 1001 | 773 | 228 |
-| spys | 800 | 42 | 758 |
-| sunny9577 | 1001 | 150 | 851 |
-| monosans | 1001 | 91 | 910 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| ErcinDedeoglu | 1001 | 91 | 910 |
-| B4RC0DE-TM | 1001 | 8 | 993 |
-| openproxylist.xyz | 1001 | 22 | 979 |
-| proxifly | 1001 | 0 | 1001 |
+| proxyscrape.com | 1001 | 841 | 160 |
+| rootjazz.com | 1001 | 16 | 985 |
+| B4RC0DE-TM | 1001 | 10 | 991 |
+| proxifly | 1001 | 1 | 1000 |
+| sunny9577 | 1001 | 148 | 853 |
+| openproxylist.xyz | 1001 | 17 | 984 |
+| ErcinDedeoglu | 1001 | 118 | 883 |
+| proxy4parsing | 1001 | 2 | 999 |
+| TheSpeedX | 1001 | 128 | 873 |
+| my-proxy.com | 980 | 111 | 869 |
 | proxylist.geonode.com | 1001 | 18 | 983 |
-| TheSpeedX | 1001 | 178 | 823 |
-| rotatingproxies.com | 1001 | 12 | 989 |
-| proxyspace.pro | 1001 | 102 | 899 |
-| my-proxy.com | 980 | 164 | 816 |
