@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 163 | 13 | 150 |
-| roosterkid | 217 | 13 | 204 |
+| hookzof | 164 | 12 | 152 |
+| roosterkid | 222 | 8 | 214 |
 | opsxcq | 343 | 0 | 343 |
 | clarketm | 400 | 1 | 399 |
-| Zaeem20 | 984 | 395 | 589 |
-| jetkai | 1001 | 4 | 997 |
-| mmppx12 | 1001 | 138 | 863 |
-| proxyscrape.com | 1001 | 869 | 132 |
-| sunny9577 | 1001 | 113 | 888 |
-| ShiftyTR | 993 | 27 | 966 |
-| rootjazz.com | 1001 | 11 | 990 |
-| spys | 800 | 72 | 728 |
-| monosans | 1001 | 166 | 835 |
-| proxyspace.pro | 1001 | 38 | 963 |
-| my-proxy.com | 1001 | 88 | 913 |
-| B4RC0DE-TM | 1001 | 12 | 989 |
-| ErcinDedeoglu | 1001 | 213 | 788 |
-| proxy4parsing | 1001 | 2 | 999 |
+| mmppx12 | 1001 | 90 | 911 |
+| spys | 800 | 51 | 749 |
+| jetkai | 1001 | 19 | 982 |
+| proxyspace.pro | 1001 | 55 | 946 |
+| monosans | 1001 | 137 | 864 |
+| proxyscrape.com | 1001 | 842 | 159 |
+| rootjazz.com | 1001 | 6 | 995 |
+| Zaeem20 | 1001 | 337 | 664 |
+| ShiftyTR | 993 | 25 | 968 |
+| sunny9577 | 1001 | 95 | 906 |
+| my-proxy.com | 1001 | 64 | 937 |
+| B4RC0DE-TM | 1001 | 13 | 988 |
+| ErcinDedeoglu | 1001 | 155 | 846 |
+| proxy-list.download | 1001 | 8 | 993 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| openproxylist.xyz | 1001 | 11 | 990 |
 | proxifly | 1001 | 0 | 1001 |
-| openproxylist.xyz | 1001 | 14 | 987 |
-| proxy-list.download | 1001 | 7 | 994 |
-| TheSpeedX | 1001 | 175 | 826 |
-| rotatingproxies.com | 1001 | 3 | 998 |
-| proxylist.geonode.com | 1001 | 15 | 986 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| proxylist.geonode.com | 1001 | 26 | 975 |
+| TheSpeedX | 1001 | 107 | 894 |
