@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 115 | 15 | 100 |
-| roosterkid | 247 | 8 | 239 |
+| hookzof | 130 | 16 | 114 |
 | opsxcq | 343 | 0 | 343 |
+| roosterkid | 249 | 9 | 240 |
 | clarketm | 400 | 2 | 398 |
-| Zaeem20 | 983 | 335 | 648 |
-| proxifly | 1001 | 2 | 999 |
-| proxyscrape.com | 1001 | 817 | 184 |
-| spys | 800 | 82 | 718 |
-| mmppx12 | 1001 | 127 | 874 |
-| ShiftyTR | 993 | 38 | 955 |
-| jetkai | 1001 | 28 | 973 |
-| monosans | 1001 | 89 | 912 |
+| Zaeem20 | 919 | 322 | 597 |
+| ShiftyTR | 993 | 36 | 957 |
+| mmppx12 | 1001 | 97 | 904 |
+| jetkai | 1001 | 27 | 974 |
 | sunny9577 | 1001 | 126 | 875 |
-| proxy4parsing | 1001 | 2 | 999 |
-| B4RC0DE-TM | 1001 | 18 | 983 |
-| my-proxy.com | 1001 | 67 | 934 |
-| ErcinDedeoglu | 1001 | 175 | 826 |
+| my-proxy.com | 1001 | 50 | 951 |
+| spys | 800 | 54 | 746 |
 | rootjazz.com | 1001 | 8 | 993 |
-| proxy-list.download | 1001 | 4 | 997 |
+| proxyscrape.com | 1001 | 687 | 314 |
+| monosans | 1001 | 24 | 977 |
 | TheSpeedX | 1001 | 121 | 880 |
-| openproxylist.xyz | 1001 | 19 | 982 |
+| proxifly | 1001 | 9 | 992 |
+| proxy-list.download | 1001 | 7 | 994 |
+| ErcinDedeoglu | 1001 | 149 | 852 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| openproxylist.xyz | 1001 | 20 | 981 |
+| proxyspace.pro | 1001 | 26 | 975 |
+| B4RC0DE-TM | 1001 | 11 | 990 |
+| rotatingproxies.com | 1001 | 2 | 999 |
 | proxylist.geonode.com | 1001 | 13 | 988 |
-| rotatingproxies.com | 1001 | 3 | 998 |
-| proxyspace.pro | 1001 | 122 | 879 |
