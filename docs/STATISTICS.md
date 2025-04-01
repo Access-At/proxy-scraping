@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 201 | 18 | 183 |
-| roosterkid | 259 | 7 | 252 |
+| roosterkid | 249 | 4 | 245 |
+| hookzof | 196 | 15 | 181 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 2 | 398 |
-| mmppx12 | 1001 | 63 | 938 |
+| clarketm | 400 | 1 | 399 |
+| Zaeem20 | 859 | 283 | 576 |
+| ShiftyTR | 993 | 32 | 961 |
+| spys | 800 | 50 | 750 |
 | jetkai | 1001 | 23 | 978 |
-| proxyscrape.com | 1001 | 891 | 110 |
-| Zaeem20 | 816 | 281 | 535 |
-| proxyspace.pro | 1001 | 34 | 967 |
-| sunny9577 | 1001 | 72 | 929 |
+| rootjazz.com | 1001 | 12 | 989 |
+| proxyscrape.com | 1001 | 809 | 192 |
+| mmppx12 | 1001 | 87 | 914 |
+| monosans | 1001 | 98 | 903 |
+| sunny9577 | 1001 | 83 | 918 |
+| proxifly | 1001 | 2 | 999 |
 | proxy4parsing | 1001 | 1 | 1000 |
-| rootjazz.com | 1001 | 17 | 984 |
-| spys | 800 | 61 | 739 |
-| proxifly | 1001 | 9 | 992 |
-| ShiftyTR | 993 | 35 | 958 |
-| B4RC0DE-TM | 1001 | 21 | 980 |
-| monosans | 1001 | 67 | 934 |
-| my-proxy.com | 910 | 135 | 775 |
-| ErcinDedeoglu | 1001 | 148 | 853 |
-| openproxylist.xyz | 1001 | 23 | 978 |
-| TheSpeedX | 1001 | 108 | 893 |
-| proxy-list.download | 1001 | 9 | 992 |
-| proxylist.geonode.com | 1001 | 29 | 972 |
-| rotatingproxies.com | 1001 | 3 | 998 |
+| proxy-list.download | 1001 | 10 | 991 |
+| B4RC0DE-TM | 1001 | 17 | 984 |
+| my-proxy.com | 910 | 115 | 795 |
+| openproxylist.xyz | 1001 | 19 | 982 |
+| TheSpeedX | 1001 | 133 | 868 |
+| ErcinDedeoglu | 1001 | 130 | 871 |
+| proxylist.geonode.com | 1001 | 64 | 937 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| proxyspace.pro | 1001 | 120 | 881 |
