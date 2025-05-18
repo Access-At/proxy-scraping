@@ -3,8 +3,8 @@
 | Source Type | Count |
 |-------------|-------|
 | github | 15 |
-| Github | 1 |
 | website | 11 |
+| Github | 1 |
 
 
 # Author Summary
@@ -19,10 +19,10 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
-| unknown | 4 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -33,29 +33,29 @@
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
 | proxy4parsing | 0 | 0 | 0 |
-| opsxcq | 0 | 0 | 0 |
-| proxifly | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
-| hookzof | 62 | 0 | 62 |
 | rootjazz.com | 1 | 0 | 1 |
-| roosterkid | 209 | 13 | 196 |
-| Zaeem20 | 371 | 232 | 139 |
+| hookzof | 98 | 1 | 97 |
+| roosterkid | 189 | 13 | 176 |
 | clarketm | 400 | 1 | 399 |
-| monosans | 535 | 28 | 507 |
-| ShiftyTR | 714 | 24 | 690 |
-| jetkai | 1001 | 20 | 981 |
-| spys | 800 | 30 | 770 |
-| my-proxy.com | 910 | 13 | 897 |
+| opsxcq | 343 | 0 | 343 |
+| monosans | 402 | 17 | 385 |
+| Zaeem20 | 449 | 231 | 218 |
+| spys | 800 | 28 | 772 |
+| my-proxy.com | 910 | 26 | 884 |
+| jetkai | 1001 | 28 | 973 |
+| mmppx12 | 1001 | 76 | 925 |
+| proxifly | 1001 | 1 | 1000 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| proxyscrape.com | 1001 | 612 | 389 |
+| sunny9577 | 1001 | 65 | 936 |
+| B4RC0DE-TM | 1001 | 11 | 990 |
+| ErcinDedeoglu | 1001 | 68 | 933 |
+| proxylist.geonode.com | 1001 | 28 | 973 |
+| openproxylist.xyz | 1001 | 192 | 809 |
 | proxy-list.download | 1001 | 5 | 996 |
-| ErcinDedeoglu | 1001 | 53 | 948 |
-| B4RC0DE-TM | 1001 | 12 | 989 |
-| sunny9577 | 1001 | 43 | 958 |
-| openproxylist.xyz | 1001 | 230 | 771 |
-| proxyscrape.com | 1001 | 586 | 415 |
-| mmppx12 | 1001 | 52 | 949 |
-| rotatingproxies.com | 1001 | 1 | 1000 |
-| proxyspace.pro | 1001 | 205 | 796 |
-| TheSpeedX | 1001 | 75 | 926 |
-| proxylist.geonode.com | 1001 | 38 | 963 |
+| TheSpeedX | 1001 | 89 | 912 |
+| proxyspace.pro | 1001 | 192 | 809 |
+| ShiftyTR | 993 | 34 | 959 |
