@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
-| rootjazz.com | 1 | 0 | 1 |
 | hookzof | 51 | 0 | 51 |
+| rootjazz.com | 1 | 0 | 1 |
+| zloi-user | 0 | 0 | 0 |
+| roosterkid | 222 | 12 | 210 |
 | opsxcq | 343 | 0 | 343 |
-| roosterkid | 219 | 14 | 205 |
-| clarketm | 400 | 1 | 399 |
-| Zaeem20 | 540 | 213 | 327 |
-| monosans | 455 | 19 | 436 |
-| spys | 800 | 22 | 778 |
-| sunny9577 | 1001 | 73 | 928 |
-| ShiftyTR | 993 | 39 | 954 |
-| mmppx12 | 1001 | 50 | 951 |
-| jetkai | 1001 | 30 | 971 |
+| clarketm | 400 | 2 | 398 |
+| Zaeem20 | 575 | 219 | 356 |
+| monosans | 470 | 21 | 449 |
+| proxifly | 1001 | 25 | 976 |
+| openproxylist.xyz | 1001 | 33 | 968 |
+| spys | 800 | 26 | 774 |
+| proxyscrape.com | 1001 | 593 | 408 |
+| B4RC0DE-TM | 1001 | 23 | 978 |
 | proxy-list.download | 1001 | 9 | 992 |
-| proxyscrape.com | 1001 | 581 | 420 |
-| my-proxy.com | 936 | 28 | 908 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| openproxylist.xyz | 1001 | 74 | 927 |
-| ErcinDedeoglu | 1001 | 38 | 963 |
-| B4RC0DE-TM | 1001 | 21 | 980 |
+| sunny9577 | 1001 | 63 | 938 |
 | proxyspace.pro | 1001 | 24 | 977 |
-| proxifly | 1001 | 9 | 992 |
-| TheSpeedX | 1001 | 76 | 925 |
-| proxylist.geonode.com | 1001 | 20 | 981 |
-| rotatingproxies.com | 1001 | 3 | 998 |
+| proxylist.geonode.com | 1001 | 18 | 983 |
+| TheSpeedX | 1001 | 80 | 921 |
+| mmppx12 | 1001 | 39 | 962 |
+| my-proxy.com | 936 | 33 | 903 |
+| ShiftyTR | 993 | 33 | 960 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| rotatingproxies.com | 1001 | 2 | 999 |
+| jetkai | 1001 | 34 | 967 |
+| ErcinDedeoglu | 1001 | 37 | 964 |
