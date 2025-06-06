@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
-| socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
+| http | 21 |
+| https | 14 |
+| socks4 | 20 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
-| hookzof | 14 | 0 | 14 |
-| multiproxy.org | 0 | 0 | 0 |
-| proxydb.net | 0 | 0 | 0 |
+| hookzof | 2 | 0 | 2 |
 | rootjazz.com | 1 | 0 | 1 |
-| roosterkid | 221 | 9 | 212 |
-| opsxcq | 343 | 0 | 343 |
+| proxydb.net | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| roosterkid | 222 | 11 | 211 |
 | clarketm | 400 | 1 | 399 |
-| Zaeem20 | 606 | 254 | 352 |
-| mmppx12 | 1001 | 60 | 941 |
-| B4RC0DE-TM | 1001 | 11 | 990 |
-| jetkai | 1001 | 32 | 969 |
-| openproxylist.xyz | 1001 | 120 | 881 |
-| spys | 800 | 33 | 767 |
-| ShiftyTR | 993 | 38 | 955 |
-| sunny9577 | 1001 | 65 | 936 |
-| ErcinDedeoglu | 1001 | 35 | 966 |
-| proxyspace.pro | 1001 | 29 | 972 |
+| proxy-list.download | 192 | 4 | 188 |
+| opsxcq | 343 | 0 | 343 |
+| Zaeem20 | 625 | 269 | 356 |
+| mmppx12 | 1001 | 87 | 914 |
+| spys | 800 | 34 | 766 |
+| ShiftyTR | 993 | 39 | 954 |
+| sunny9577 | 1001 | 70 | 931 |
+| jetkai | 1001 | 31 | 970 |
+| proxifly | 1001 | 5 | 996 |
+| B4RC0DE-TM | 1001 | 14 | 987 |
+| proxyscrape.com | 1001 | 676 | 325 |
 | proxy4parsing | 1001 | 0 | 1001 |
-| proxy-list.download | 1001 | 4 | 997 |
-| proxifly | 1001 | 29 | 972 |
-| TheSpeedX | 1001 | 83 | 918 |
-| proxyscrape.com | 1001 | 641 | 360 |
-| my-proxy.com | 910 | 28 | 882 |
-| monosans | 1001 | 18 | 983 |
-| proxylist.geonode.com | 1001 | 23 | 978 |
+| openproxylist.xyz | 1001 | 120 | 881 |
+| monosans | 1001 | 28 | 973 |
+| ErcinDedeoglu | 1001 | 38 | 963 |
+| my-proxy.com | 910 | 29 | 881 |
+| proxyspace.pro | 1001 | 26 | 975 |
+| TheSpeedX | 1001 | 86 | 915 |
+| proxylist.geonode.com | 1001 | 29 | 972 |
 | rotatingproxies.com | 0 | 0 | 0 |
