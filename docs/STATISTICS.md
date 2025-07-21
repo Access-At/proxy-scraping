@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| unknown | 4 |
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| hookzof | 27 | 1 | 26 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 22 | 0 | 22 |
-| roosterkid | 235 | 17 | 218 |
+| roosterkid | 230 | 17 | 213 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| proxy-list.download | 1001 | 2 | 999 |
-| ShiftyTR | 993 | 28 | 965 |
-| spys | 800 | 47 | 753 |
-| jetkai | 1001 | 26 | 975 |
-| Zaeem20 | 1001 | 987 | 14 |
-| proxy4parsing | 1001 | 499 | 502 |
+| clarketm | 400 | 0 | 400 |
+| ShiftyTR | 993 | 25 | 968 |
+| proxifly | 1001 | 929 | 72 |
+| Zaeem20 | 1001 | 979 | 22 |
+| jetkai | 1001 | 21 | 980 |
+| proxy-list.download | 1001 | 4 | 997 |
+| proxy4parsing | 1001 | 497 | 504 |
+| spys | 800 | 49 | 751 |
+| sunny9577 | 1001 | 52 | 949 |
+| mmppx12 | 1001 | 92 | 909 |
 | B4RC0DE-TM | 1001 | 17 | 984 |
-| proxyscrape.com | 1001 | 996 | 5 |
-| ErcinDedeoglu | 1001 | 84 | 917 |
-| proxifly | 1001 | 944 | 57 |
-| monosans | 1001 | 136 | 865 |
-| my-proxy.com | 1001 | 88 | 913 |
-| proxylist.geonode.com | 1001 | 151 | 850 |
-| mmppx12 | 1001 | 94 | 907 |
-| sunny9577 | 1001 | 81 | 920 |
-| openproxylist.xyz | 1001 | 324 | 677 |
-| TheSpeedX | 1001 | 106 | 895 |
-| proxyspace.pro | 1001 | 302 | 699 |
+| monosans | 1001 | 128 | 873 |
+| my-proxy.com | 1001 | 66 | 935 |
+| ErcinDedeoglu | 1001 | 81 | 920 |
+| openproxylist.xyz | 1001 | 321 | 680 |
+| TheSpeedX | 1001 | 97 | 904 |
+| proxyspace.pro | 1001 | 296 | 705 |
+| proxylist.geonode.com | 1001 | 157 | 844 |
+| proxyscrape.com | 1001 | 993 | 8 |
 | rotatingproxies.com | 0 | 0 | 0 |
