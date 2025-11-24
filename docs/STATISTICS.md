@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| ErcinDedeoglu | 0 | 0 | 0 |
 | openproxylist.xyz | 0 | 0 | 0 |
-| proxyspace.pro | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 18 | 0 | 18 |
-| monosans | 138 | 19 | 119 |
-| roosterkid | 195 | 12 | 183 |
+| proxyspace.pro | 0 | 0 | 0 |
+| hookzof | 19 | 0 | 19 |
+| monosans | 178 | 24 | 154 |
+| roosterkid | 192 | 12 | 180 |
 | opsxcq | 343 | 0 | 343 |
 | clarketm | 400 | 1 | 399 |
-| rotatingproxies.com | 0 | 0 | 0 |
-| proxy-list.download | 1001 | 3 | 998 |
-| jetkai | 1001 | 7 | 994 |
-| ShiftyTR | 993 | 9 | 984 |
-| spys | 0 | 0 | 0 |
-| proxy4parsing | 1001 | 502 | 499 |
-| B4RC0DE-TM | 1001 | 6 | 995 |
-| mmppx12 | 1001 | 41 | 960 |
+| B4RC0DE-TM | 1001 | 5 | 996 |
+| proxifly | 1001 | 5 | 996 |
+| ShiftyTR | 993 | 10 | 983 |
+| proxy-list.download | 1001 | 1 | 1000 |
+| mmppx12 | 1001 | 42 | 959 |
 | Zaeem20 | 1001 | 999 | 2 |
-| proxyscrape.com | 1001 | 995 | 6 |
-| sunny9577 | 1001 | 50 | 951 |
-| TheSpeedX | 1001 | 63 | 938 |
-| proxifly | 1001 | 18 | 983 |
-| proxylist.geonode.com | 1001 | 71 | 930 |
-| my-proxy.com | 1001 | 41 | 960 |
+| proxy4parsing | 1001 | 498 | 503 |
+| proxyscrape.com | 1001 | 994 | 7 |
+| jetkai | 1001 | 5 | 996 |
+| proxylist.geonode.com | 1001 | 69 | 932 |
+| sunny9577 | 1001 | 23 | 978 |
+| TheSpeedX | 1001 | 60 | 941 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| my-proxy.com | 1001 | 54 | 947 |
