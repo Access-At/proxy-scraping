@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 20 | 0 | 20 |
-| monosans | 66 | 21 | 45 |
-| roosterkid | 225 | 12 | 213 |
-| clarketm | 400 | 3 | 397 |
-| opsxcq | 343 | 0 | 343 |
+| hookzof | 28 | 0 | 28 |
+| monosans | 70 | 28 | 42 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| opsxcq | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| proxy-list.download | 1001 | 0 | 1001 |
-| jetkai | 1001 | 5 | 996 |
-| mmppx12 | 1001 | 69 | 932 |
-| proxifly | 1001 | 27 | 974 |
-| ShiftyTR | 993 | 6 | 987 |
-| B4RC0DE-TM | 1001 | 0 | 1001 |
-| Zaeem20 | 1001 | 994 | 7 |
-| proxy4parsing | 1001 | 500 | 501 |
-| sunny9577 | 1001 | 164 | 837 |
-| proxyspace.pro | 1001 | 465 | 536 |
-| openproxylist.xyz | 1001 | 483 | 518 |
-| proxylist.geonode.com | 1001 | 198 | 803 |
-| ErcinDedeoglu | 1001 | 34 | 967 |
-| TheSpeedX | 1001 | 201 | 800 |
-| my-proxy.com | 1001 | 207 | 794 |
-| proxyscrape.com | 1001 | 1000 | 1 |
+| proxyscrape.com | 1001 | 997 | 4 |
