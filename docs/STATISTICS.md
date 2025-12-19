@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 18 | 0 | 18 |
 | rootjazz.com | 1 | 0 | 1 |
-| monosans | 103 | 52 | 51 |
-| roosterkid | 286 | 13 | 273 |
+| hookzof | 12 | 0 | 12 |
+| monosans | 132 | 43 | 89 |
+| roosterkid | 262 | 14 | 248 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 0 | 400 |
-| ShiftyTR | 993 | 7 | 986 |
+| clarketm | 400 | 1 | 399 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| B4RC0DE-TM | 1001 | 1 | 1000 |
+| ShiftyTR | 993 | 6 | 987 |
 | proxy-list.download | 1001 | 0 | 1001 |
-| mmppx12 | 1001 | 70 | 931 |
-| proxifly | 1001 | 37 | 964 |
-| jetkai | 1001 | 5 | 996 |
-| proxy4parsing | 1001 | 498 | 503 |
-| Zaeem20 | 1001 | 993 | 8 |
-| ErcinDedeoglu | 1001 | 36 | 965 |
+| B4RC0DE-TM | 1001 | 0 | 1001 |
+| Zaeem20 | 1001 | 999 | 2 |
+| proxy4parsing | 1001 | 497 | 504 |
+| mmppx12 | 1001 | 65 | 936 |
 | proxyscrape.com | 1001 | 997 | 4 |
-| openproxylist.xyz | 1001 | 667 | 334 |
-| proxyspace.pro | 1001 | 667 | 334 |
-| sunny9577 | 1001 | 84 | 917 |
-| TheSpeedX | 1001 | 161 | 840 |
-| proxylist.geonode.com | 1001 | 224 | 777 |
-| my-proxy.com | 1001 | 221 | 780 |
+| openproxylist.xyz | 1001 | 516 | 485 |
+| proxifly | 1001 | 32 | 969 |
+| proxyspace.pro | 1001 | 516 | 485 |
+| proxylist.geonode.com | 1001 | 199 | 802 |
+| jetkai | 1001 | 6 | 995 |
+| ErcinDedeoglu | 1001 | 31 | 970 |
+| sunny9577 | 1001 | 78 | 923 |
+| my-proxy.com | 1001 | 250 | 751 |
+| TheSpeedX | 1001 | 156 | 845 |
