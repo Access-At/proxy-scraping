@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| zloi-user | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 37 | 0 | 37 |
-| roosterkid | 220 | 10 | 210 |
-| proxylist.geonode.com | 0 | 0 | 0 |
-| monosans | 334 | 210 | 124 |
+| hookzof | 23 | 1 | 22 |
+| roosterkid | 216 | 9 | 207 |
+| monosans | 246 | 158 | 88 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| clarketm | 400 | 2 | 398 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| ShiftyTR | 993 | 11 | 982 |
-| mmppx12 | 1001 | 60 | 941 |
-| proxy-list.download | 1001 | 0 | 1001 |
-| B4RC0DE-TM | 1001 | 4 | 997 |
-| jetkai | 1001 | 10 | 991 |
-| Zaeem20 | 1001 | 992 | 9 |
-| my-proxy.com | 1001 | 119 | 882 |
+| B4RC0DE-TM | 1001 | 2 | 999 |
+| proxy-list.download | 1001 | 1 | 1000 |
+| jetkai | 1001 | 9 | 992 |
+| ShiftyTR | 993 | 12 | 981 |
+| mmppx12 | 1001 | 30 | 971 |
+| sunny9577 | 1001 | 220 | 781 |
+| Zaeem20 | 1001 | 999 | 2 |
 | proxy4parsing | 1001 | 499 | 502 |
-| proxyscrape.com | 1001 | 999 | 2 |
-| proxifly | 1001 | 25 | 976 |
-| ErcinDedeoglu | 1001 | 28 | 973 |
-| TheSpeedX | 1001 | 99 | 902 |
-| openproxylist.xyz | 1001 | 46 | 955 |
-| sunny9577 | 1001 | 154 | 847 |
-| proxyspace.pro | 1001 | 92 | 909 |
+| proxifly | 1001 | 28 | 973 |
+| my-proxy.com | 1001 | 107 | 894 |
+| proxyscrape.com | 1001 | 997 | 4 |
+| proxyspace.pro | 1001 | 89 | 912 |
+| TheSpeedX | 1001 | 108 | 893 |
+| openproxylist.xyz | 1001 | 22 | 979 |
+| ErcinDedeoglu | 1001 | 29 | 972 |
