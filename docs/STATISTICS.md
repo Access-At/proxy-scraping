@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 16 | 0 | 16 |
-| monosans | 162 | 27 | 135 |
-| roosterkid | 243 | 13 | 230 |
+| hookzof | 12 | 0 | 12 |
+| monosans | 180 | 37 | 143 |
+| roosterkid | 253 | 12 | 241 |
 | opsxcq | 343 | 0 | 343 |
 | clarketm | 400 | 0 | 400 |
-| rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| ShiftyTR | 993 | 34 | 959 |
-| B4RC0DE-TM | 1001 | 10 | 991 |
-| mmppx12 | 1001 | 82 | 919 |
-| jetkai | 1001 | 25 | 976 |
-| Zaeem20 | 1001 | 942 | 59 |
-| proxy4parsing | 1001 | 472 | 529 |
-| sunny9577 | 1001 | 145 | 856 |
-| TheSpeedX | 1001 | 155 | 846 |
-| proxifly | 1001 | 20 | 981 |
-| proxyspace.pro | 1001 | 180 | 821 |
-| ErcinDedeoglu | 1001 | 29 | 972 |
-| openproxylist.xyz | 1001 | 118 | 883 |
-| proxyscrape.com | 1001 | 984 | 17 |
-| proxylist.geonode.com | 1001 | 351 | 650 |
-| my-proxy.com | 1001 | 101 | 900 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| ShiftyTR | 993 | 38 | 955 |
+| mmppx12 | 1001 | 90 | 911 |
+| B4RC0DE-TM | 1001 | 15 | 986 |
+| Zaeem20 | 1001 | 941 | 60 |
+| proxyscrape.com | 1001 | 982 | 19 |
+| jetkai | 1001 | 14 | 987 |
+| proxifly | 1001 | 26 | 975 |
+| proxy4parsing | 1001 | 467 | 534 |
+| my-proxy.com | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
