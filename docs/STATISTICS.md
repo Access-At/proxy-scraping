@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| hookzof | 24 | 0 | 24 |
 | rootjazz.com | 1 | 0 | 1 |
-| monosans | 104 | 15 | 89 |
-| roosterkid | 245 | 13 | 232 |
-| clarketm | 400 | 1 | 399 |
+| hookzof | 21 | 0 | 21 |
+| monosans | 129 | 15 | 114 |
+| roosterkid | 238 | 7 | 231 |
 | opsxcq | 343 | 0 | 343 |
-| spys | 0 | 0 | 0 |
-| rotatingproxies.com | 0 | 0 | 0 |
-| proxylist.geonode.com | 0 | 0 | 0 |
-| proxifly | 0 | 0 | 0 |
-| TheSpeedX | 0 | 0 | 0 |
-| sunny9577 | 0 | 0 | 0 |
-| ShiftyTR | 0 | 0 | 0 |
-| mmppx12 | 0 | 0 | 0 |
-| proxy4parsing | 0 | 0 | 0 |
-| proxyspace.pro | 0 | 0 | 0 |
+| clarketm | 400 | 0 | 400 |
 | ErcinDedeoglu | 0 | 0 | 0 |
-| openproxylist.xyz | 0 | 0 | 0 |
-| proxyscrape.com | 0 | 0 | 0 |
 | my-proxy.com | 0 | 0 | 0 |
-| Zaeem20 | 0 | 0 | 0 |
-| B4RC0DE-TM | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
 | jetkai | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
