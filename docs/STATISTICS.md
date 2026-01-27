@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
+| hookzof | 30 | 0 | 30 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 32 | 3 | 29 |
-| monosans | 151 | 16 | 135 |
-| roosterkid | 230 | 13 | 217 |
+| monosans | 102 | 27 | 75 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| Zaeem20 | 765 | 318 | 447 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| ShiftyTR | 993 | 36 | 957 |
-| mmppx12 | 1001 | 93 | 908 |
-| jetkai | 1001 | 28 | 973 |
-| sunny9577 | 1001 | 139 | 862 |
-| proxyscrape.com | 1001 | 717 | 284 |
-| proxifly | 1001 | 5 | 996 |
-| B4RC0DE-TM | 1001 | 8 | 993 |
-| proxy4parsing | 1001 | 3 | 998 |
-| ErcinDedeoglu | 1001 | 76 | 925 |
-| openproxylist.xyz | 1001 | 58 | 943 |
-| proxyspace.pro | 1001 | 114 | 887 |
-| proxylist.geonode.com | 1001 | 10 | 991 |
-| my-proxy.com | 0 | 0 | 0 |
-| TheSpeedX | 0 | 0 | 0 |
+| Zaeem20 | 857 | 364 | 493 |
+| mmppx12 | 1001 | 67 | 934 |
+| ShiftyTR | 993 | 39 | 954 |
+| sunny9577 | 1001 | 136 | 865 |
+| B4RC0DE-TM | 1001 | 17 | 984 |
+| proxyscrape.com | 1001 | 779 | 222 |
+| ErcinDedeoglu | 1001 | 20 | 981 |
+| proxy4parsing | 1001 | 2 | 999 |
+| proxifly | 1001 | 9 | 992 |
+| jetkai | 1001 | 31 | 970 |
+| proxylist.geonode.com | 1001 | 11 | 990 |
+| proxyspace.pro | 1001 | 121 | 880 |
 | proxy-list.download | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
