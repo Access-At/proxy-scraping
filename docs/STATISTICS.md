@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 26 | 1 | 25 |
-| monosans | 137 | 27 | 110 |
-| roosterkid | 305 | 9 | 296 |
+| hookzof | 27 | 0 | 27 |
+| monosans | 82 | 22 | 60 |
+| roosterkid | 305 | 13 | 292 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
+| clarketm | 400 | 2 | 398 |
+| Zaeem20 | 715 | 325 | 390 |
+| ShiftyTR | 993 | 41 | 952 |
+| mmppx12 | 1001 | 88 | 913 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | spys | 0 | 0 | 0 |
-| Zaeem20 | 745 | 325 | 420 |
-| B4RC0DE-TM | 1001 | 10 | 991 |
-| ShiftyTR | 993 | 39 | 954 |
-| mmppx12 | 1001 | 91 | 910 |
-| jetkai | 1001 | 36 | 965 |
-| proxifly | 1001 | 29 | 972 |
-| proxyscrape.com | 1001 | 688 | 313 |
+| jetkai | 1001 | 17 | 984 |
+| proxifly | 1001 | 40 | 961 |
+| my-proxy.com | 1001 | 61 | 940 |
+| proxyscrape.com | 1001 | 642 | 359 |
+| B4RC0DE-TM | 1001 | 16 | 985 |
+| sunny9577 | 1001 | 37 | 964 |
 | proxy4parsing | 1001 | 3 | 998 |
-| my-proxy.com | 1001 | 63 | 938 |
-| proxylist.geonode.com | 1001 | 51 | 950 |
-| openproxylist.xyz | 1001 | 55 | 946 |
-| proxyspace.pro | 1001 | 102 | 899 |
-| sunny9577 | 1001 | 28 | 973 |
-| TheSpeedX | 1001 | 72 | 929 |
-| ErcinDedeoglu | 1001 | 112 | 889 |
+| ErcinDedeoglu | 1001 | 15 | 986 |
 | proxy-list.download | 0 | 0 | 0 |
+| openproxylist.xyz | 1001 | 25 | 976 |
+| TheSpeedX | 1001 | 113 | 888 |
+| proxyspace.pro | 1001 | 113 | 888 |
+| proxylist.geonode.com | 1001 | 22 | 979 |
