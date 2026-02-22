@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,11 +18,11 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| unknown | 4 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | https | 14 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| multiproxy.org | 0 | 0 | 0 |
 | zloi-user | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| multiproxy.org | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 27 | 0 | 27 |
-| monosans | 113 | 41 | 72 |
-| roosterkid | 238 | 10 | 228 |
+| hookzof | 25 | 0 | 25 |
+| monosans | 118 | 43 | 75 |
+| roosterkid | 205 | 9 | 196 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| Zaeem20 | 835 | 357 | 478 |
+| clarketm | 400 | 2 | 398 |
+| Zaeem20 | 816 | 352 | 464 |
 | ShiftyTR | 993 | 39 | 954 |
+| mmppx12 | 1001 | 86 | 915 |
+| jetkai | 1001 | 29 | 972 |
+| proxifly | 1001 | 47 | 954 |
+| B4RC0DE-TM | 1001 | 21 | 980 |
+| proxyscrape.com | 1001 | 744 | 257 |
 | spys | 0 | 0 | 0 |
-| mmppx12 | 1001 | 81 | 920 |
-| jetkai | 1001 | 17 | 984 |
-| proxifly | 1001 | 59 | 942 |
-| proxy4parsing | 1001 | 2 | 999 |
-| B4RC0DE-TM | 1001 | 11 | 990 |
-| proxyscrape.com | 1001 | 752 | 249 |
-| sunny9577 | 1001 | 132 | 869 |
-| ErcinDedeoglu | 1001 | 130 | 871 |
-| proxylist.geonode.com | 1001 | 215 | 786 |
-| TheSpeedX | 1001 | 141 | 860 |
-| my-proxy.com | 1001 | 169 | 832 |
+| sunny9577 | 1001 | 29 | 972 |
+| proxy4parsing | 1001 | 3 | 998 |
+| ErcinDedeoglu | 1001 | 15 | 986 |
 | proxy-list.download | 0 | 0 | 0 |
-| proxyspace.pro | 1001 | 124 | 877 |
-| openproxylist.xyz | 1001 | 40 | 961 |
+| proxylist.geonode.com | 1001 | 42 | 959 |
+| TheSpeedX | 1001 | 137 | 864 |
+| my-proxy.com | 1001 | 161 | 840 |
+| proxyspace.pro | 1001 | 139 | 862 |
+| openproxylist.xyz | 1001 | 96 | 905 |
