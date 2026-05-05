@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,44 +18,44 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
+| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
-| https | 14 |
-| unknown | 4 |
 
 
 # Proxy Details
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| monosans | 0 | 0 | 0 |
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
 | hookzof | 10 | 0 | 10 |
-| multiproxy.org | 5 | 0 | 5 |
-| clarketm | 400 | 3 | 397 |
-| roosterkid | 287 | 30 | 257 |
+| multiproxy.org | 6 | 0 | 6 |
+| roosterkid | 300 | 40 | 260 |
 | opsxcq | 343 | 0 | 343 |
-| spys | 800 | 213 | 587 |
-| mmppx12 | 1001 | 304 | 697 |
-| zloi-user | 1001 | 101 | 900 |
-| Zaeem20 | 1001 | 488 | 513 |
-| jetkai | 1001 | 116 | 885 |
-| ShiftyTR | 993 | 141 | 852 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| proxifly | 1001 | 233 | 768 |
-| proxyscrape.com | 1001 | 857 | 144 |
-| TheSpeedX | 1001 | 234 | 767 |
-| B4RC0DE-TM | 1001 | 60 | 941 |
-| ErcinDedeoglu | 1001 | 30 | 971 |
-| openproxylist.xyz | 1001 | 106 | 895 |
-| proxyspace.pro | 1001 | 227 | 774 |
-| proxylist.geonode.com | 1001 | 61 | 940 |
-| sunny9577 | 1001 | 248 | 753 |
-| my-proxy.com | 1001 | 166 | 835 |
+| clarketm | 400 | 4 | 396 |
+| monosans | 451 | 213 | 238 |
+| Zaeem20 | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
