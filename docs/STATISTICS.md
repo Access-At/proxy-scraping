@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,44 +18,44 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
+| https | 14 |
+| unknown | 4 |
 
 
 # Proxy Details
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
+| monosans | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| monosans | 225 | 100 | 125 |
-| roosterkid | 240 | 20 | 220 |
-| opsxcq | 343 | 0 | 343 |
-| hookzof | 336 | 77 | 259 |
-| clarketm | 400 | 2 | 398 |
+| multiproxy.org | 5 | 0 | 5 |
+| TheSpeedX | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| opsxcq | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| hookzof | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
 | sunny9577 | 0 | 0 | 0 |
-| multiproxy.org | 0 | 0 | 0 |
-| spys | 800 | 145 | 655 |
-| proxylist.geonode.com | 1001 | 44 | 957 |
-| ShiftyTR | 993 | 145 | 848 |
-| mmppx12 | 1001 | 259 | 742 |
-| zloi-user | 1001 | 118 | 883 |
-| Zaeem20 | 1001 | 407 | 594 |
-| proxyscrape.com | 1001 | 901 | 100 |
-| jetkai | 1001 | 115 | 886 |
-| proxifly | 1001 | 269 | 732 |
-| TheSpeedX | 1001 | 186 | 815 |
-| B4RC0DE-TM | 1001 | 65 | 936 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| ErcinDedeoglu | 1001 | 33 | 968 |
-| openproxylist.xyz | 1001 | 283 | 718 |
-| proxyspace.pro | 1001 | 149 | 852 |
-| my-proxy.com | 1001 | 155 | 846 |
+| mmppx12 | 0 | 0 | 0 |
