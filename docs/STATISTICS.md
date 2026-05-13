@@ -18,10 +18,10 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
+| proxy-list.download | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| proxy-list.download | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 311 | 30 | 281 |
-| hookzof | 336 | 82 | 254 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 336 | 76 | 260 |
+| roosterkid | 261 | 35 | 226 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| spys | 800 | 182 | 618 |
-| ShiftyTR | 993 | 144 | 849 |
-| mmppx12 | 1001 | 185 | 816 |
-| sunny9577 | 1001 | 167 | 834 |
-| jetkai | 1001 | 55 | 946 |
-| proxy4parsing | 1001 | 2 | 999 |
-| zloi-user | 1001 | 681 | 320 |
-| proxyscrape.com | 1001 | 876 | 125 |
-| Zaeem20 | 1001 | 511 | 490 |
-| monosans | 1001 | 613 | 388 |
-| openproxylist.xyz | 1001 | 119 | 882 |
-| proxifly | 1001 | 549 | 452 |
-| ErcinDedeoglu | 1001 | 21 | 980 |
-| B4RC0DE-TM | 1001 | 31 | 970 |
-| proxyspace.pro | 1001 | 139 | 862 |
-| proxylist.geonode.com | 1001 | 51 | 950 |
-| TheSpeedX | 1001 | 256 | 745 |
-| my-proxy.com | 1001 | 162 | 839 |
+| monosans | 417 | 204 | 213 |
+| clarketm | 400 | 2 | 398 |
+| spys | 800 | 183 | 617 |
+| Zaeem20 | 1001 | 415 | 586 |
+| ShiftyTR | 993 | 139 | 854 |
+| proxifly | 1001 | 308 | 693 |
+| zloi-user | 1001 | 150 | 851 |
+| mmppx12 | 1001 | 236 | 765 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| jetkai | 1001 | 115 | 886 |
+| openproxylist.xyz | 1001 | 112 | 889 |
+| proxyscrape.com | 1001 | 835 | 166 |
+| proxyspace.pro | 1001 | 177 | 824 |
+| ErcinDedeoglu | 1001 | 20 | 981 |
+| B4RC0DE-TM | 1001 | 69 | 932 |
+| proxylist.geonode.com | 1001 | 42 | 959 |
+| TheSpeedX | 1001 | 215 | 786 |
+| sunny9577 | 1001 | 222 | 779 |
+| my-proxy.com | 1001 | 158 | 843 |
