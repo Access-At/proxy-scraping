@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,44 +18,44 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
+| https | 14 |
+| unknown | 4 |
 
 
 # Proxy Details
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxy-list.download | 0 | 0 | 0 |
+| monosans | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| monosans | 76 | 42 | 34 |
-| hookzof | 243 | 204 | 39 |
-| roosterkid | 257 | 28 | 229 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 261 | 221 | 40 |
+| roosterkid | 220 | 21 | 199 |
 | opsxcq | 343 | 0 | 343 |
 | clarketm | 400 | 2 | 398 |
-| spys | 800 | 192 | 608 |
+| spys | 800 | 278 | 522 |
+| ShiftyTR | 993 | 139 | 854 |
 | mmppx12 | 1001 | 173 | 828 |
-| Zaeem20 | 1001 | 467 | 534 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| jetkai | 1001 | 119 | 882 |
-| ShiftyTR | 993 | 141 | 852 |
-| sunny9577 | 1001 | 219 | 782 |
-| proxifly | 1001 | 143 | 858 |
-| TheSpeedX | 1001 | 122 | 879 |
-| zloi-user | 1001 | 52 | 949 |
-| openproxylist.xyz | 1001 | 92 | 909 |
-| proxyscrape.com | 1001 | 678 | 323 |
-| ErcinDedeoglu | 1001 | 20 | 981 |
-| proxyspace.pro | 1001 | 239 | 762 |
-| B4RC0DE-TM | 1001 | 46 | 955 |
-| proxylist.geonode.com | 1001 | 55 | 946 |
-| my-proxy.com | 1001 | 106 | 895 |
+| jetkai | 1001 | 109 | 892 |
+| TheSpeedX | 1001 | 197 | 804 |
+| Zaeem20 | 1001 | 433 | 568 |
+| proxyscrape.com | 1001 | 881 | 120 |
+| proxifly | 1001 | 261 | 740 |
+| proxyspace.pro | 1001 | 286 | 715 |
+| openproxylist.xyz | 1001 | 125 | 876 |
+| proxy4parsing | 1001 | 4 | 997 |
+| ErcinDedeoglu | 1001 | 34 | 967 |
+| zloi-user | 1001 | 81 | 920 |
+| B4RC0DE-TM | 1001 | 65 | 936 |
+| proxylist.geonode.com | 1001 | 52 | 949 |
+| sunny9577 | 1001 | 89 | 912 |
+| my-proxy.com | 1001 | 169 | 832 |
