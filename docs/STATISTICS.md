@@ -18,10 +18,10 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
+| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxy-list.download | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| monosans | 111 | 59 | 52 |
-| roosterkid | 281 | 32 | 249 |
-| opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 4 | 396 |
-| hookzof | 426 | 168 | 258 |
-| spys | 800 | 229 | 571 |
-| Zaeem20 | 1001 | 344 | 657 |
-| ShiftyTR | 993 | 125 | 868 |
-| mmppx12 | 1001 | 243 | 758 |
-| sunny9577 | 1001 | 223 | 778 |
-| zloi-user | 1001 | 280 | 721 |
-| jetkai | 1001 | 105 | 896 |
-| openproxylist.xyz | 1001 | 111 | 890 |
-| proxyscrape.com | 1001 | 833 | 168 |
-| proxyspace.pro | 1001 | 288 | 713 |
-| TheSpeedX | 1001 | 217 | 784 |
-| proxifly | 1001 | 138 | 863 |
-| B4RC0DE-TM | 1001 | 59 | 942 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 113 | 888 |
-| ErcinDedeoglu | 1001 | 22 | 979 |
-| proxylist.geonode.com | 1001 | 34 | 967 |
+| multiproxy.org | 5 | 0 | 5 |
+| monosans | 132 | 68 | 64 |
+| roosterkid | 284 | 25 | 259 |
+| opsxcq | 343 | 1 | 342 |
+| clarketm | 400 | 1 | 399 |
+| hookzof | 537 | 246 | 291 |
+| spys | 800 | 238 | 562 |
+| sunny9577 | 1001 | 209 | 792 |
+| ShiftyTR | 993 | 128 | 865 |
+| B4RC0DE-TM | 1001 | 64 | 937 |
+| Zaeem20 | 1001 | 431 | 570 |
+| mmppx12 | 1001 | 287 | 714 |
+| zloi-user | 1001 | 148 | 853 |
+| jetkai | 1001 | 99 | 902 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| TheSpeedX | 1001 | 166 | 835 |
+| proxifly | 1001 | 226 | 775 |
+| ErcinDedeoglu | 1001 | 17 | 984 |
+| proxyscrape.com | 1001 | 885 | 116 |
+| proxyspace.pro | 1001 | 209 | 792 |
+| openproxylist.xyz | 1001 | 255 | 746 |
+| my-proxy.com | 1001 | 134 | 867 |
+| proxylist.geonode.com | 1001 | 37 | 964 |
