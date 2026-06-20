@@ -18,44 +18,44 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
-| unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
 | socks5_anonymous | 1 |
+| unknown | 4 |
 
 
 # Proxy Details
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
-| rootjazz.com | 1 | 0 | 1 |
+| zloi-user | 0 | 0 | 0 |
+| monosans | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| rootjazz.com | 0 | 0 | 0 |
 | multiproxy.org | 6 | 0 | 6 |
-| monosans | 126 | 75 | 51 |
-| roosterkid | 270 | 28 | 242 |
 | opsxcq | 343 | 1 | 342 |
-| hookzof | 386 | 166 | 220 |
-| clarketm | 400 | 3 | 397 |
-| spys | 800 | 235 | 565 |
-| ShiftyTR | 993 | 126 | 867 |
-| mmppx12 | 1001 | 304 | 697 |
-| zloi-user | 1001 | 235 | 766 |
-| my-proxy.com | 978 | 104 | 874 |
-| Zaeem20 | 1001 | 490 | 511 |
-| TheSpeedX | 1001 | 274 | 727 |
-| proxifly | 1001 | 101 | 900 |
-| B4RC0DE-TM | 1001 | 64 | 937 |
-| sunny9577 | 1001 | 237 | 764 |
-| proxy4parsing | 1001 | 2 | 999 |
-| proxyscrape.com | 1001 | 747 | 254 |
-| jetkai | 1001 | 106 | 895 |
-| openproxylist.xyz | 1001 | 118 | 883 |
-| proxyspace.pro | 1001 | 199 | 802 |
-| ErcinDedeoglu | 1001 | 18 | 983 |
-| proxylist.geonode.com | 1001 | 41 | 960 |
+| hookzof | 543 | 256 | 287 |
+| spys | 800 | 260 | 540 |
+| my-proxy.com | 978 | 107 | 871 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| ShiftyTR | 993 | 133 | 860 |
+| Zaeem20 | 1001 | 452 | 549 |
+| TheSpeedX | 1001 | 262 | 739 |
+| mmppx12 | 1001 | 329 | 672 |
+| proxyscrape.com | 1001 | 845 | 156 |
+| openproxylist.xyz | 1001 | 228 | 773 |
+| proxyspace.pro | 1001 | 202 | 799 |
+| sunny9577 | 1001 | 202 | 799 |
+| proxylist.geonode.com | 1001 | 57 | 944 |
