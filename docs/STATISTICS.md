@@ -18,10 +18,10 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| proxylist.geonode.com | 13 | 9 | 4 |
-| monosans | 48 | 27 | 21 |
-| multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 246 | 32 | 214 |
-| opsxcq | 343 | 1 | 342 |
-| clarketm | 400 | 2 | 398 |
-| hookzof | 418 | 149 | 269 |
-| spys | 800 | 226 | 574 |
-| Zaeem20 | 891 | 319 | 572 |
-| jetkai | 1001 | 10 | 991 |
-| proxyscrape.com | 1001 | 662 | 339 |
-| mmppx12 | 1001 | 163 | 838 |
-| proxifly | 1001 | 147 | 854 |
-| sunny9577 | 1001 | 166 | 835 |
-| ShiftyTR | 993 | 76 | 917 |
-| zloi-user | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 40 | 961 |
-| proxy4parsing | 1001 | 2 | 999 |
-| ErcinDedeoglu | 1001 | 23 | 978 |
-| proxyspace.pro | 1001 | 241 | 760 |
-| openproxylist.xyz | 1001 | 113 | 888 |
-| TheSpeedX | 1001 | 156 | 845 |
-| my-proxy.com | 1001 | 179 | 822 |
+| monosans | 37 | 14 | 23 |
+| multiproxy.org | 5 | 0 | 5 |
+| roosterkid | 236 | 13 | 223 |
+| opsxcq | 343 | 0 | 343 |
+| clarketm | 400 | 1 | 399 |
+| hookzof | 403 | 126 | 277 |
+| proxylist.geonode.com | 554 | 218 | 336 |
+| Zaeem20 | 733 | 242 | 491 |
+| spys | 800 | 163 | 637 |
+| mmppx12 | 1001 | 173 | 828 |
+| zloi-user | 1001 | 131 | 870 |
+| ShiftyTR | 993 | 63 | 930 |
+| jetkai | 1001 | 59 | 942 |
+| B4RC0DE-TM | 1001 | 38 | 963 |
+| proxyscrape.com | 1001 | 580 | 421 |
+| proxifly | 1001 | 214 | 787 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| ErcinDedeoglu | 1001 | 11 | 990 |
+| openproxylist.xyz | 1001 | 201 | 800 |
+| proxyspace.pro | 1001 | 193 | 808 |
+| TheSpeedX | 1001 | 201 | 800 |
+| my-proxy.com | 1001 | 183 | 818 |
+| sunny9577 | 1001 | 131 | 870 |
