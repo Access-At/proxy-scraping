@@ -18,10 +18,10 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| monosans | 196 | 94 | 102 |
-| roosterkid | 257 | 20 | 237 |
-| opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 3 | 397 |
-| hookzof | 584 | 260 | 324 |
-| spys | 800 | 231 | 569 |
-| zloi-user | 1001 | 347 | 654 |
-| mmppx12 | 1001 | 188 | 813 |
-| jetkai | 1001 | 91 | 910 |
-| ShiftyTR | 993 | 112 | 881 |
-| sunny9577 | 1001 | 200 | 801 |
-| proxyscrape.com | 1001 | 747 | 254 |
-| proxifly | 1001 | 298 | 703 |
-| Zaeem20 | 1001 | 409 | 592 |
-| B4RC0DE-TM | 1001 | 64 | 937 |
-| proxy4parsing | 1001 | 2 | 999 |
+| multiproxy.org | 5 | 0 | 5 |
+| monosans | 198 | 99 | 99 |
+| roosterkid | 265 | 14 | 251 |
+| opsxcq | 343 | 1 | 342 |
+| clarketm | 400 | 2 | 398 |
+| hookzof | 590 | 226 | 364 |
+| spys | 800 | 222 | 578 |
+| Zaeem20 | 1001 | 350 | 651 |
+| mmppx12 | 1001 | 116 | 885 |
+| jetkai | 1001 | 76 | 925 |
+| zloi-user | 1001 | 207 | 794 |
+| proxifly | 1001 | 284 | 717 |
+| sunny9577 | 1001 | 167 | 834 |
+| proxyscrape.com | 1001 | 715 | 286 |
+| TheSpeedX | 1001 | 181 | 820 |
+| B4RC0DE-TM | 1001 | 50 | 951 |
+| proxy4parsing | 1001 | 0 | 1001 |
 | ErcinDedeoglu | 1001 | 20 | 981 |
-| proxylist.geonode.com | 1001 | 406 | 595 |
-| proxyspace.pro | 1001 | 172 | 829 |
-| openproxylist.xyz | 1001 | 118 | 883 |
-| my-proxy.com | 1001 | 139 | 862 |
-| TheSpeedX | 1001 | 222 | 779 |
+| ShiftyTR | 993 | 90 | 903 |
+| proxylist.geonode.com | 1001 | 358 | 643 |
+| openproxylist.xyz | 1001 | 230 | 771 |
+| proxyspace.pro | 1001 | 168 | 833 |
+| my-proxy.com | 1001 | 193 | 808 |
