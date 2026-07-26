@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -18,8 +18,8 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| https | 14 |
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
 | unknown | 4 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| proxy-list.download | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| hookzof | 160 | 86 | 74 |
-| monosans | 223 | 99 | 124 |
-| roosterkid | 246 | 10 | 236 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 113 | 66 | 47 |
+| monosans | 177 | 94 | 83 |
+| roosterkid | 242 | 11 | 231 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| Zaeem20 | 824 | 274 | 550 |
-| spys | 800 | 141 | 659 |
-| ShiftyTR | 993 | 81 | 912 |
-| proxyscrape.com | 1001 | 739 | 262 |
-| openproxylist.xyz | 1001 | 186 | 815 |
-| proxyspace.pro | 1001 | 210 | 791 |
-| jetkai | 1001 | 2 | 999 |
-| proxifly | 1001 | 138 | 863 |
-| zloi-user | 1001 | 13 | 988 |
-| TheSpeedX | 1001 | 175 | 826 |
+| clarketm | 400 | 2 | 398 |
+| Zaeem20 | 787 | 246 | 541 |
+| spys | 800 | 165 | 635 |
+| my-proxy.com | 1001 | 106 | 895 |
+| proxifly | 1001 | 100 | 901 |
+| ShiftyTR | 993 | 91 | 902 |
+| zloi-user | 1001 | 0 | 1001 |
 | sunny9577 | 1001 | 151 | 850 |
-| B4RC0DE-TM | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 119 | 882 |
-| proxy4parsing | 1001 | 2 | 999 |
-| ErcinDedeoglu | 1001 | 5 | 996 |
-| proxylist.geonode.com | 1001 | 188 | 813 |
+| B4RC0DE-TM | 1001 | 47 | 954 |
+| TheSpeedX | 1001 | 191 | 810 |
+| openproxylist.xyz | 1001 | 46 | 955 |
+| proxyscrape.com | 1001 | 628 | 373 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| proxyspace.pro | 1001 | 95 | 906 |
+| jetkai | 1001 | 70 | 931 |
+| ErcinDedeoglu | 1001 | 8 | 993 |
+| proxylist.geonode.com | 1001 | 186 | 815 |
