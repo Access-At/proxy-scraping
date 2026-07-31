@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,8 +18,8 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
 | https | 14 |
+| http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | unknown | 4 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
+| proxy-list.download | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
-| proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 5 | 0 | 5 |
-| hookzof | 252 | 131 | 121 |
-| roosterkid | 266 | 17 | 249 |
+| multiproxy.org | 6 | 0 | 6 |
+| hookzof | 189 | 89 | 100 |
+| roosterkid | 254 | 12 | 242 |
+| monosans | 308 | 153 | 155 |
+| clarketm | 400 | 2 | 398 |
 | opsxcq | 343 | 0 | 343 |
-| monosans | 358 | 184 | 174 |
-| clarketm | 400 | 1 | 399 |
-| spys | 800 | 186 | 614 |
-| ShiftyTR | 993 | 52 | 941 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 108 | 893 |
-| sunny9577 | 1001 | 167 | 834 |
-| Zaeem20 | 1001 | 325 | 676 |
-| jetkai | 1001 | 49 | 952 |
-| B4RC0DE-TM | 1001 | 31 | 970 |
+| Zaeem20 | 767 | 258 | 509 |
+| spys | 800 | 166 | 634 |
+| ShiftyTR | 993 | 59 | 934 |
+| jetkai | 1001 | 22 | 979 |
+| proxyspace.pro | 1001 | 193 | 808 |
+| proxifly | 1001 | 151 | 850 |
+| openproxylist.xyz | 1001 | 76 | 925 |
+| sunny9577 | 1001 | 159 | 842 |
+| proxyscrape.com | 1001 | 504 | 497 |
+| TheSpeedX | 1001 | 220 | 781 |
 | zloi-user | 1001 | 119 | 882 |
-| openproxylist.xyz | 1001 | 172 | 829 |
-| proxyspace.pro | 1001 | 182 | 819 |
-| proxyscrape.com | 1001 | 474 | 527 |
-| TheSpeedX | 1001 | 115 | 886 |
-| ErcinDedeoglu | 1001 | 115 | 886 |
-| proxifly | 1001 | 199 | 802 |
-| proxylist.geonode.com | 1001 | 126 | 875 |
+| ErcinDedeoglu | 1001 | 220 | 781 |
+| my-proxy.com | 1001 | 98 | 903 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| B4RC0DE-TM | 1001 | 30 | 971 |
+| proxylist.geonode.com | 1001 | 158 | 843 |
