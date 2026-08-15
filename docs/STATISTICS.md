@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
-| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
+| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| mmppx12 | 0 | 0 | 0 |
-| proxy-list.download | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
+| proxy-list.download | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 5 | 0 | 5 |
-| hookzof | 192 | 121 | 71 |
-| roosterkid | 214 | 16 | 198 |
+| multiproxy.org | 6 | 0 | 6 |
+| hookzof | 123 | 81 | 42 |
+| roosterkid | 225 | 10 | 215 |
 | opsxcq | 343 | 1 | 342 |
 | clarketm | 400 | 2 | 398 |
-| monosans | 576 | 196 | 380 |
-| spys | 800 | 198 | 602 |
-| Zaeem20 | 990 | 325 | 665 |
-| ShiftyTR | 993 | 61 | 932 |
-| jetkai | 1001 | 54 | 947 |
-| proxyscrape.com | 1001 | 778 | 223 |
-| B4RC0DE-TM | 1001 | 22 | 979 |
-| zloi-user | 1001 | 0 | 1001 |
-| proxifly | 1001 | 185 | 816 |
+| monosans | 596 | 235 | 361 |
+| spys | 800 | 197 | 603 |
+| Zaeem20 | 905 | 312 | 593 |
+| ShiftyTR | 993 | 64 | 929 |
+| zloi-user | 1001 | 180 | 821 |
+| sunny9577 | 1001 | 184 | 817 |
+| jetkai | 1001 | 57 | 944 |
+| proxifly | 1001 | 124 | 877 |
+| proxyscrape.com | 1001 | 711 | 290 |
+| proxyspace.pro | 1001 | 266 | 735 |
+| openproxylist.xyz | 1001 | 250 | 751 |
+| B4RC0DE-TM | 1001 | 34 | 967 |
+| my-proxy.com | 1001 | 150 | 851 |
+| ErcinDedeoglu | 1001 | 17 | 984 |
 | proxy4parsing | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 144 | 857 |
-| sunny9577 | 1001 | 215 | 786 |
-| proxyspace.pro | 1001 | 240 | 761 |
-| openproxylist.xyz | 1001 | 112 | 889 |
-| TheSpeedX | 1001 | 231 | 770 |
-| ErcinDedeoglu | 1001 | 232 | 769 |
+| TheSpeedX | 1001 | 267 | 734 |
 | proxylist.geonode.com | 0 | 0 | 0 |
