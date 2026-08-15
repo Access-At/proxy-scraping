@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
-| proxydb.net | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| hookzof | 123 | 81 | 42 |
-| roosterkid | 225 | 10 | 215 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 196 | 110 | 86 |
+| roosterkid | 227 | 15 | 212 |
 | opsxcq | 343 | 1 | 342 |
-| clarketm | 400 | 2 | 398 |
-| monosans | 596 | 235 | 361 |
-| spys | 800 | 197 | 603 |
-| Zaeem20 | 905 | 312 | 593 |
-| ShiftyTR | 993 | 64 | 929 |
-| zloi-user | 1001 | 180 | 821 |
-| sunny9577 | 1001 | 184 | 817 |
-| jetkai | 1001 | 57 | 944 |
-| proxifly | 1001 | 124 | 877 |
-| proxyscrape.com | 1001 | 711 | 290 |
-| proxyspace.pro | 1001 | 266 | 735 |
-| openproxylist.xyz | 1001 | 250 | 751 |
-| B4RC0DE-TM | 1001 | 34 | 967 |
-| my-proxy.com | 1001 | 150 | 851 |
-| ErcinDedeoglu | 1001 | 17 | 984 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| TheSpeedX | 1001 | 267 | 734 |
+| clarketm | 400 | 1 | 399 |
+| monosans | 775 | 236 | 539 |
+| Zaeem20 | 830 | 289 | 541 |
+| spys | 800 | 180 | 620 |
+| proxy4parsing | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
 | proxylist.geonode.com | 0 | 0 | 0 |
