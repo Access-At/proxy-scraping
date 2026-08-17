@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 2 | 0 | 2 |
-| mmppx12 | 0 | 0 | 0 |
-| multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 214 | 11 | 203 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 109 | 67 | 42 |
+| roosterkid | 213 | 15 | 198 |
+| monosans | 281 | 135 | 146 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 2 | 398 |
-| monosans | 281 | 152 | 129 |
-| spys | 800 | 186 | 614 |
-| Zaeem20 | 880 | 248 | 632 |
-| zloi-user | 1001 | 0 | 1001 |
-| sunny9577 | 1001 | 135 | 866 |
-| ShiftyTR | 993 | 57 | 936 |
-| ErcinDedeoglu | 1001 | 162 | 839 |
-| proxyscrape.com | 1001 | 750 | 251 |
-| jetkai | 1001 | 48 | 953 |
-| proxyspace.pro | 1001 | 85 | 916 |
-| openproxylist.xyz | 1001 | 177 | 824 |
-| proxifly | 1001 | 74 | 927 |
-| TheSpeedX | 1001 | 140 | 861 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| B4RC0DE-TM | 1001 | 15 | 986 |
-| my-proxy.com | 1001 | 137 | 864 |
-| proxylist.geonode.com | 1001 | 144 | 857 |
+| clarketm | 400 | 4 | 396 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| proxifly | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| proxylist.geonode.com | 1001 | 128 | 873 |
