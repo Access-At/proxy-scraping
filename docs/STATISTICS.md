@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
-| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
+| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| mmppx12 | 0 | 0 | 0 |
 | rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 107 | 54 | 53 |
-| multiproxy.org | 5 | 0 | 5 |
-| proxy4parsing | 0 | 0 | 0 |
-| clarketm | 0 | 0 | 0 |
-| Zaeem20 | 0 | 0 | 0 |
-| proxyspace.pro | 0 | 0 | 0 |
-| openproxylist.xyz | 0 | 0 | 0 |
-| proxyscrape.com | 0 | 0 | 0 |
-| sunny9577 | 0 | 0 | 0 |
-| spys | 0 | 0 | 0 |
-| ShiftyTR | 0 | 0 | 0 |
-| my-proxy.com | 0 | 0 | 0 |
-| roosterkid | 240 | 9 | 231 |
-| zloi-user | 0 | 0 | 0 |
-| monosans | 0 | 0 | 0 |
-| proxifly | 0 | 0 | 0 |
-| jetkai | 0 | 0 | 0 |
-| B4RC0DE-TM | 0 | 0 | 0 |
-| ErcinDedeoglu | 0 | 0 | 0 |
-| TheSpeedX | 0 | 0 | 0 |
-| opsxcq | 0 | 0 | 0 |
-| proxylist.geonode.com | 0 | 0 | 0 |
+| multiproxy.org | 6 | 0 | 6 |
+| hookzof | 148 | 90 | 58 |
+| roosterkid | 243 | 15 | 228 |
+| opsxcq | 343 | 1 | 342 |
+| monosans | 438 | 117 | 321 |
+| clarketm | 400 | 1 | 399 |
+| Zaeem20 | 653 | 209 | 444 |
+| spys | 800 | 139 | 661 |
+| proxyscrape.com | 1001 | 581 | 420 |
+| B4RC0DE-TM | 1001 | 0 | 1001 |
+| ShiftyTR | 993 | 61 | 932 |
+| jetkai | 1001 | 27 | 974 |
+| proxifly | 1001 | 130 | 871 |
+| zloi-user | 1001 | 106 | 895 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| proxyspace.pro | 1001 | 90 | 911 |
+| openproxylist.xyz | 1001 | 59 | 942 |
+| my-proxy.com | 1001 | 213 | 788 |
+| sunny9577 | 1001 | 122 | 879 |
+| TheSpeedX | 1001 | 172 | 829 |
+| ErcinDedeoglu | 1001 | 172 | 829 |
+| proxylist.geonode.com | 1001 | 103 | 898 |
