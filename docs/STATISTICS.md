@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
 | multiproxy.org | 5 | 0 | 5 |
-| hookzof | 134 | 78 | 56 |
-| roosterkid | 212 | 17 | 195 |
-| opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 1 | 399 |
-| Zaeem20 | 662 | 206 | 456 |
-| monosans | 722 | 201 | 521 |
-| spys | 800 | 177 | 623 |
-| ShiftyTR | 993 | 66 | 927 |
-| jetkai | 1001 | 54 | 947 |
-| proxyscrape.com | 1001 | 819 | 182 |
-| proxifly | 1001 | 124 | 877 |
-| zloi-user | 1001 | 66 | 935 |
+| hookzof | 135 | 70 | 65 |
+| roosterkid | 217 | 14 | 203 |
+| opsxcq | 343 | 1 | 342 |
+| clarketm | 400 | 4 | 396 |
+| monosans | 538 | 151 | 387 |
+| Zaeem20 | 605 | 189 | 416 |
+| spys | 800 | 180 | 620 |
+| ShiftyTR | 993 | 59 | 934 |
+| proxifly | 1001 | 112 | 889 |
+| zloi-user | 1001 | 114 | 887 |
+| B4RC0DE-TM | 1001 | 25 | 976 |
+| jetkai | 1001 | 4 | 997 |
 | proxy4parsing | 1001 | 1 | 1000 |
-| B4RC0DE-TM | 1001 | 23 | 978 |
-| proxylist.geonode.com | 1001 | 169 | 832 |
-| ErcinDedeoglu | 1001 | 12 | 989 |
-| openproxylist.xyz | 1001 | 293 | 708 |
-| proxyspace.pro | 1001 | 231 | 770 |
+| proxyscrape.com | 1001 | 802 | 199 |
+| proxylist.geonode.com | 1001 | 155 | 846 |
+| ErcinDedeoglu | 1001 | 13 | 988 |
+| openproxylist.xyz | 1001 | 262 | 739 |
+| proxyspace.pro | 1001 | 100 | 901 |
+| TheSpeedX | 1001 | 218 | 783 |
 | my-proxy.com | 1001 | 224 | 777 |
-| TheSpeedX | 0 | 0 | 0 |
-| sunny9577 | 0 | 0 | 0 |
+| sunny9577 | 1001 | 160 | 841 |
