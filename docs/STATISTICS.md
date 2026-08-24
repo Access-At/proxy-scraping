@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,8 +18,8 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
 | https | 14 |
+| http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | unknown | 4 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| mmppx12 | 0 | 0 | 0 |
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
-| spys | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 5 | 0 | 5 |
-| hookzof | 113 | 63 | 50 |
-| roosterkid | 221 | 16 | 205 |
-| opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 4 | 396 |
-| monosans | 619 | 173 | 446 |
-| Zaeem20 | 779 | 247 | 532 |
-| sunny9577 | 1001 | 192 | 809 |
-| ShiftyTR | 993 | 67 | 926 |
-| jetkai | 1001 | 60 | 941 |
-| TheSpeedX | 1001 | 270 | 731 |
+| multiproxy.org | 6 | 0 | 6 |
+| hookzof | 147 | 86 | 61 |
+| roosterkid | 212 | 23 | 189 |
+| opsxcq | 343 | 1 | 342 |
+| clarketm | 400 | 2 | 398 |
+| proxyspace.pro | 1001 | 267 | 734 |
+| monosans | 747 | 212 | 535 |
+| spys | 800 | 197 | 603 |
+| Zaeem20 | 838 | 278 | 560 |
+| ShiftyTR | 993 | 68 | 925 |
+| sunny9577 | 1001 | 193 | 808 |
+| jetkai | 1001 | 57 | 944 |
 | my-proxy.com | 1001 | 107 | 894 |
-| openproxylist.xyz | 1001 | 288 | 713 |
-| proxyspace.pro | 1001 | 270 | 731 |
-| B4RC0DE-TM | 1001 | 1 | 1000 |
-| zloi-user | 1001 | 108 | 893 |
-| proxifly | 1001 | 98 | 903 |
-| proxy4parsing | 1001 | 2 | 999 |
-| ErcinDedeoglu | 1001 | 15 | 986 |
-| proxylist.geonode.com | 1001 | 142 | 859 |
-| proxyscrape.com | 1001 | 586 | 415 |
+| openproxylist.xyz | 1001 | 116 | 885 |
+| proxyscrape.com | 1001 | 701 | 300 |
+| zloi-user | 1001 | 124 | 877 |
+| TheSpeedX | 1001 | 185 | 816 |
+| B4RC0DE-TM | 1001 | 20 | 981 |
+| proxylist.geonode.com | 1001 | 134 | 867 |
+| proxifly | 1001 | 114 | 887 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| ErcinDedeoglu | 1001 | 19 | 982 |
