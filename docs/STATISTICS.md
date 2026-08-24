@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 5 | 0 | 5 |
-| hookzof | 102 | 57 | 45 |
-| roosterkid | 266 | 23 | 243 |
+| multiproxy.org | 6 | 0 | 6 |
+| hookzof | 198 | 108 | 90 |
+| roosterkid | 270 | 19 | 251 |
 | opsxcq | 343 | 1 | 342 |
-| clarketm | 400 | 1 | 399 |
-| monosans | 724 | 205 | 519 |
-| Zaeem20 | 0 | 0 | 0 |
-| sunny9577 | 0 | 0 | 0 |
-| zloi-user | 0 | 0 | 0 |
-| my-proxy.com | 0 | 0 | 0 |
-| spys | 0 | 0 | 0 |
-| ShiftyTR | 0 | 0 | 0 |
-| jetkai | 0 | 0 | 0 |
-| proxylist.geonode.com | 0 | 0 | 0 |
-| proxyscrape.com | 0 | 0 | 0 |
-| B4RC0DE-TM | 0 | 0 | 0 |
-| TheSpeedX | 0 | 0 | 0 |
-| ErcinDedeoglu | 0 | 0 | 0 |
-| proxyspace.pro | 0 | 0 | 0 |
-| openproxylist.xyz | 0 | 0 | 0 |
-| proxy4parsing | 0 | 0 | 0 |
-| proxifly | 0 | 0 | 0 |
+| clarketm | 400 | 2 | 398 |
+| monosans | 693 | 203 | 490 |
+| spys | 800 | 210 | 590 |
+| Zaeem20 | 973 | 266 | 707 |
+| ShiftyTR | 993 | 64 | 929 |
+| my-proxy.com | 1001 | 109 | 892 |
+| sunny9577 | 1001 | 174 | 827 |
+| zloi-user | 1001 | 119 | 882 |
+| proxifly | 1001 | 149 | 852 |
+| B4RC0DE-TM | 1001 | 24 | 977 |
+| jetkai | 1001 | 58 | 943 |
+| openproxylist.xyz | 1001 | 84 | 917 |
+| proxyscrape.com | 1001 | 764 | 237 |
+| TheSpeedX | 1001 | 186 | 815 |
+| proxyspace.pro | 1001 | 164 | 837 |
+| proxy4parsing | 1001 | 0 | 1001 |
+| ErcinDedeoglu | 1001 | 13 | 988 |
+| proxylist.geonode.com | 1001 | 141 | 860 |
