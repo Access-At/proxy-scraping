@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,8 +18,8 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
 | https | 14 |
+| http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | unknown | 4 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| mmppx12 | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 94 | 50 | 44 |
-| multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 224 | 22 | 202 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 167 | 88 | 79 |
+| opsxcq | 343 | 1 | 342 |
+| roosterkid | 233 | 21 | 212 |
 | clarketm | 400 | 2 | 398 |
-| opsxcq | 343 | 0 | 343 |
-| monosans | 551 | 145 | 406 |
-| rotatingproxies.com | 0 | 0 | 0 |
-| Zaeem20 | 816 | 228 | 588 |
-| spys | 800 | 195 | 605 |
-| proxyscrape.com | 1001 | 730 | 271 |
-| jetkai | 1001 | 63 | 938 |
-| openproxylist.xyz | 1001 | 86 | 915 |
-| TheSpeedX | 1001 | 227 | 774 |
-| proxyspace.pro | 1001 | 216 | 785 |
-| sunny9577 | 1001 | 155 | 846 |
-| ShiftyTR | 993 | 77 | 916 |
-| proxifly | 1001 | 87 | 914 |
-| ErcinDedeoglu | 1001 | 228 | 773 |
-| B4RC0DE-TM | 1001 | 0 | 1001 |
-| my-proxy.com | 1001 | 100 | 901 |
-| proxylist.geonode.com | 1001 | 101 | 900 |
+| monosans | 536 | 159 | 377 |
+| Zaeem20 | 703 | 231 | 472 |
+| spys | 800 | 206 | 594 |
+| sunny9577 | 1001 | 140 | 861 |
+| ShiftyTR | 993 | 63 | 930 |
+| my-proxy.com | 1001 | 99 | 902 |
+| jetkai | 1001 | 25 | 976 |
+| proxifly | 1001 | 143 | 858 |
 | proxy4parsing | 1001 | 1 | 1000 |
-| zloi-user | 1001 | 34 | 967 |
+| proxyspace.pro | 1001 | 221 | 780 |
+| TheSpeedX | 1001 | 244 | 757 |
+| B4RC0DE-TM | 1001 | 21 | 980 |
+| openproxylist.xyz | 1001 | 206 | 795 |
+| proxylist.geonode.com | 1001 | 130 | 871 |
+| ErcinDedeoglu | 1001 | 187 | 814 |
+| zloi-user | 1001 | 2 | 999 |
+| proxyscrape.com | 1001 | 787 | 214 |
