@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| github | 15 |
 | website | 11 |
+| github | 15 |
 | Github | 1 |
 
 
@@ -18,8 +18,8 @@
 
 | Proxy Type | Count |
 |------------|-------|
-| http | 21 |
 | https | 14 |
+| http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
 | unknown | 4 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| mmppx12 | 0 | 0 | 0 |
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 225 | 25 | 200 |
-| hookzof | 314 | 144 | 170 |
+| multiproxy.org | 5 | 0 | 5 |
+| hookzof | 149 | 66 | 83 |
+| roosterkid | 232 | 19 | 213 |
 | opsxcq | 343 | 0 | 343 |
-| clarketm | 400 | 3 | 397 |
-| Zaeem20 | 792 | 239 | 553 |
-| spys | 800 | 209 | 591 |
-| monosans | 854 | 205 | 649 |
-| ShiftyTR | 993 | 65 | 928 |
-| sunny9577 | 1001 | 188 | 813 |
-| my-proxy.com | 1001 | 123 | 878 |
-| proxyscrape.com | 1001 | 776 | 225 |
-| jetkai | 1001 | 49 | 952 |
-| openproxylist.xyz | 1001 | 312 | 689 |
-| proxifly | 1001 | 237 | 764 |
-| proxyspace.pro | 1001 | 281 | 720 |
-| B4RC0DE-TM | 1001 | 19 | 982 |
-| TheSpeedX | 1001 | 175 | 826 |
-| zloi-user | 1001 | 209 | 792 |
-| proxy4parsing | 1001 | 1 | 1000 |
-| ErcinDedeoglu | 1001 | 12 | 989 |
-| proxylist.geonode.com | 1001 | 149 | 852 |
+| clarketm | 400 | 1 | 399 |
+| spys | 800 | 246 | 554 |
+| monosans | 835 | 250 | 585 |
+| Zaeem20 | 932 | 312 | 620 |
+| my-proxy.com | 1001 | 151 | 850 |
+| sunny9577 | 1001 | 242 | 759 |
+| zloi-user | 1001 | 62 | 939 |
+| jetkai | 1001 | 9 | 992 |
+| proxifly | 1001 | 105 | 896 |
+| TheSpeedX | 1001 | 161 | 840 |
+| openproxylist.xyz | 1001 | 250 | 751 |
+| proxyscrape.com | 1001 | 749 | 252 |
+| proxyspace.pro | 1001 | 259 | 742 |
+| B4RC0DE-TM | 1001 | 0 | 1001 |
+| proxy4parsing | 1001 | 2 | 999 |
+| proxylist.geonode.com | 1001 | 163 | 838 |
+| ErcinDedeoglu | 1001 | 23 | 978 |
+| ShiftyTR | 993 | 57 | 936 |
