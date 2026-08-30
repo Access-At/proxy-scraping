@@ -2,8 +2,8 @@
 
 | Source Type | Count |
 |-------------|-------|
-| website | 11 |
 | github | 15 |
+| website | 11 |
 | Github | 1 |
 
 
@@ -19,9 +19,9 @@
 | Proxy Type | Count |
 |------------|-------|
 | http | 21 |
+| https | 14 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | mmppx12 | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| hookzof | 72 | 37 | 35 |
 | multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 143 | 6 | 137 |
+| hookzof | 190 | 100 | 90 |
+| roosterkid | 197 | 8 | 189 |
 | opsxcq | 343 | 1 | 342 |
-| clarketm | 400 | 2 | 398 |
-| Zaeem20 | 628 | 198 | 430 |
-| monosans | 678 | 146 | 532 |
-| spys | 800 | 156 | 644 |
-| ShiftyTR | 993 | 83 | 910 |
-| sunny9577 | 1001 | 133 | 868 |
-| proxifly | 1001 | 83 | 918 |
-| B4RC0DE-TM | 1001 | 1 | 1000 |
-| zloi-user | 1001 | 73 | 928 |
-| proxylist.geonode.com | 1001 | 58 | 943 |
-| jetkai | 1001 | 3 | 998 |
-| proxyscrape.com | 1001 | 764 | 237 |
-| openproxylist.xyz | 1001 | 407 | 594 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| ErcinDedeoglu | 1001 | 7 | 994 |
-| proxyspace.pro | 1001 | 83 | 918 |
-| my-proxy.com | 1001 | 209 | 792 |
-| TheSpeedX | 1001 | 134 | 867 |
+| clarketm | 400 | 1 | 399 |
+| Zaeem20 | 677 | 213 | 464 |
+| spys | 800 | 182 | 618 |
+| monosans | 946 | 180 | 766 |
+| ShiftyTR | 993 | 76 | 917 |
+| proxifly | 1001 | 170 | 831 |
+| B4RC0DE-TM | 1001 | 43 | 958 |
+| jetkai | 1001 | 64 | 937 |
+| zloi-user | 1001 | 220 | 781 |
+| proxyscrape.com | 1001 | 778 | 223 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| proxylist.geonode.com | 1001 | 75 | 926 |
+| ErcinDedeoglu | 1001 | 8 | 993 |
+| openproxylist.xyz | 1001 | 96 | 905 |
+| proxyspace.pro | 1001 | 93 | 908 |
+| my-proxy.com | 1001 | 182 | 819 |
+| sunny9577 | 1001 | 157 | 844 |
+| TheSpeedX | 1001 | 169 | 832 |
