@@ -10,6 +10,7 @@ proxies:
     - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt
     - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt
     - https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
+    - https://rcloak.com/api/proxies/raw?protocol=socks5
 
 extractors:
     type: split

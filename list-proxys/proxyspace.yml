@@ -10,6 +10,7 @@ proxies:
   - https://proxyspace.pro/https.txt
   - https://proxyspace.pro/socks4.txt
   - https://proxyspace.pro/socks5.txt
+  - https://rcloak.com/api/proxies/raw?protocol=socks5
 
 extractors:
     type: split
