@@ -3,8 +3,8 @@
 | Source Type | Count |
 |-------------|-------|
 | website | 11 |
-| github | 15 |
 | Github | 1 |
+| github | 15 |
 
 
 # Author Summary
@@ -37,25 +37,25 @@
 | proxydb.net | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
 | multiproxy.org | 6 | 0 | 6 |
-| roosterkid | 263 | 23 | 240 |
-| opsxcq | 343 | 1 | 342 |
-| clarketm | 400 | 0 | 400 |
-| spys | 800 | 154 | 646 |
-| monosans | 879 | 167 | 712 |
-| ShiftyTR | 993 | 90 | 903 |
-| Zaeem20 | 1001 | 241 | 760 |
-| zloi-user | 1001 | 169 | 832 |
-| mmppx12 | 1001 | 146 | 855 |
-| B4RC0DE-TM | 1001 | 32 | 969 |
-| openproxylist.xyz | 1001 | 199 | 802 |
-| proxyscrape.com | 1001 | 810 | 191 |
-| jetkai | 1001 | 70 | 931 |
-| proxyspace.pro | 1001 | 206 | 795 |
-| hookzof | 1001 | 198 | 803 |
-| proxy4parsing | 1001 | 0 | 1001 |
-| proxifly | 1001 | 112 | 889 |
-| sunny9577 | 1001 | 178 | 823 |
-| TheSpeedX | 1001 | 157 | 844 |
-| my-proxy.com | 1001 | 132 | 869 |
-| proxylist.geonode.com | 1001 | 100 | 901 |
-| ErcinDedeoglu | 1001 | 9 | 992 |
+| proxifly | 0 | 0 | 0 |
+| proxyscrape.com | 0 | 0 | 0 |
+| proxyspace.pro | 0 | 0 | 0 |
+| proxy4parsing | 0 | 0 | 0 |
+| ShiftyTR | 0 | 0 | 0 |
+| my-proxy.com | 0 | 0 | 0 |
+| roosterkid | 0 | 0 | 0 |
+| mmppx12 | 0 | 0 | 0 |
+| TheSpeedX | 0 | 0 | 0 |
+| Zaeem20 | 0 | 0 | 0 |
+| B4RC0DE-TM | 0 | 0 | 0 |
+| openproxylist.xyz | 0 | 0 | 0 |
+| opsxcq | 0 | 0 | 0 |
+| jetkai | 0 | 0 | 0 |
+| monosans | 0 | 0 | 0 |
+| clarketm | 0 | 0 | 0 |
+| hookzof | 0 | 0 | 0 |
+| spys | 0 | 0 | 0 |
+| proxylist.geonode.com | 0 | 0 | 0 |
+| sunny9577 | 0 | 0 | 0 |
+| ErcinDedeoglu | 0 | 0 | 0 |
+| zloi-user | 0 | 0 | 0 |
