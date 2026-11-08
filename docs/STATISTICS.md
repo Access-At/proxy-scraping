@@ -3,8 +3,8 @@
 | Source Type | Count |
 |-------------|-------|
 | website | 11 |
-| Github | 1 |
 | github | 15 |
+| Github | 1 |
 
 
 # Author Summary
@@ -18,10 +18,10 @@
 
 | Proxy Type | Count |
 |------------|-------|
+| https | 14 |
 | http | 21 |
 | socks4 | 20 |
 | socks5 | 22 |
-| https | 14 |
 | unknown | 4 |
 | http_anonymous | 1 |
 | socks4_anonymous | 1 |
@@ -32,30 +32,30 @@
 
 | Name | Total Proxies | Live Proxies | Dead Proxies |
 |------|---------------|--------------|---------------|
-| rotatingproxies.com | 0 | 0 | 0 |
 | proxy-list.download | 0 | 0 | 0 |
+| rotatingproxies.com | 0 | 0 | 0 |
 | proxydb.net | 0 | 0 | 0 |
 | multiproxy.org | 0 | 0 | 0 |
 | rootjazz.com | 1 | 0 | 1 |
-| proxyspace.pro | 0 | 0 | 0 |
-| proxifly | 0 | 0 | 0 |
-| hookzof | 0 | 0 | 0 |
-| zloi-user | 0 | 0 | 0 |
-| monosans | 0 | 0 | 0 |
-| clarketm | 0 | 0 | 0 |
-| my-proxy.com | 0 | 0 | 0 |
-| proxy4parsing | 0 | 0 | 0 |
-| roosterkid | 0 | 0 | 0 |
-| ShiftyTR | 0 | 0 | 0 |
-| B4RC0DE-TM | 0 | 0 | 0 |
-| ErcinDedeoglu | 0 | 0 | 0 |
-| sunny9577 | 0 | 0 | 0 |
-| mmppx12 | 0 | 0 | 0 |
-| TheSpeedX | 0 | 0 | 0 |
-| proxylist.geonode.com | 0 | 0 | 0 |
-| spys | 0 | 0 | 0 |
-| Zaeem20 | 0 | 0 | 0 |
-| opsxcq | 0 | 0 | 0 |
-| openproxylist.xyz | 0 | 0 | 0 |
-| proxyscrape.com | 0 | 0 | 0 |
-| jetkai | 0 | 0 | 0 |
+| roosterkid | 309 | 36 | 273 |
+| opsxcq | 343 | 0 | 343 |
+| clarketm | 400 | 2 | 398 |
+| spys | 800 | 190 | 610 |
+| my-proxy.com | 840 | 280 | 560 |
+| Zaeem20 | 919 | 249 | 670 |
+| ShiftyTR | 993 | 120 | 873 |
+| zloi-user | 1001 | 208 | 793 |
+| sunny9577 | 1001 | 230 | 771 |
+| mmppx12 | 1001 | 137 | 864 |
+| monosans | 1001 | 177 | 824 |
+| B4RC0DE-TM | 1001 | 60 | 941 |
+| jetkai | 1001 | 9 | 992 |
+| proxyscrape.com | 1001 | 733 | 268 |
+| TheSpeedX | 1001 | 178 | 823 |
+| proxy4parsing | 1001 | 1 | 1000 |
+| proxyspace.pro | 1001 | 227 | 774 |
+| hookzof | 1001 | 348 | 653 |
+| openproxylist.xyz | 1001 | 89 | 912 |
+| proxifly | 1001 | 95 | 906 |
+| proxylist.geonode.com | 1001 | 102 | 899 |
+| ErcinDedeoglu | 1001 | 20 | 981 |
